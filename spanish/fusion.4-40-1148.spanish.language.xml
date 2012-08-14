@@ -356,7 +356,7 @@ Un saludo,
 <phrase section="livechatclient" code="surveyconfirmheader"><![CDATA[Gracias por completar nuesta encuesta. Puede cerrar esta ventana.]]></phrase>
 <phrase section="ticketemails" code="surveycta"><![CDATA[Para valorar el servicio recibido, por favor haga click en el siguiente enlace: ]]></phrase>
 <phrase section="tickets" code="surveydesc"><![CDATA[Gracias por completar la encuesta. Su opinión es muy importante para nosotros, y nos ayuda a mejorar.]]></phrase>
-<phrase section="ticketemails" code="surveydescription1"><![CDATA[Como parte de nuestro compromiso para mejorar nuestro servicio, nos gustaría saber si opinión sobre el mismo.]]></phrase>
+<phrase section="ticketemails" code="surveydescription1"><![CDATA[Como parte de nuestro compromiso para mejorar nuestro servicio, nos gustaría saber su opinión sobre el mismo.]]></phrase>
 <phrase section="ticketemails" code="surveydescription2"><![CDATA[Está invitado a rellenar una breve encuesta de satisfacción consistente en unas pocas preguntas.]]></phrase>
 <phrase section="ticketemails" code="surveydescription3"><![CDATA[No le llevará más de un minuto completarla.]]></phrase>
 <phrase section="ticketemails" code="surveyfooter"><![CDATA[Gracias de antemano,]]></phrase>
