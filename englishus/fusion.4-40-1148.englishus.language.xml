@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- XML Generated On: 14 August 2012 02:34 PM -->
+<swiftlanguage>
+<title><![CDATA[English (U.S.)]]></title>
+<isocode><![CDATA[en-us]]></isocode>
+<author><![CDATA[Kayako Infotech Ltd.]]></author>
+<charset><![CDATA[UTF-8]]></charset>
+<textdirection><![CDATA[LTR]]></textdirection>
+<version><![CDATA[4.40.1148]]></version>
+<flagicon><![CDATA[{$themepath}us.gif]]></flagicon>
+<phrase section="users" code="accountinformation"><![CDATA[Account Information]]></phrase>
+<phrase section="ticketemails" code="acfinalintro"><![CDATA[This message is regarding your ticket ID #%s. We are changing the status of this ticket to '%s' as we have not received a response from you in %s hours.]]></phrase>
+<phrase section="ticketemails" code="acfinalsubfooter"><![CDATA[If you have any further questions then do let us know. You can check the status of or reply to this ticket online at: ]]></phrase>
+<phrase section="ticketemails" code="acpendingintro"><![CDATA[This message concerns your ticket #%s. We have not received any response back from you in %s hours, and would like to know if you consider this issue to be resolved. If you have any further questions, simply respond to this e-mail.]]></phrase>
+<phrase section="ticketemails" code="acpendingsubfooter"><![CDATA[Please note that the ticket will automatically be closed within %s hours if no response is received from you. The ticket will not be closed in the case that you send another reply. You can check the status of or reply to this ticket online at: ]]></phrase>
+<phrase section="default" code="action_notreg"><![CDATA[%s action is not registered]]></phrase>
+<phrase section="livechatclient" code="alloperatorsbusy"><![CDATA[Your request is important to us. Please wait, an operator will be with you shortly.]]></phrase>
+<phrase section="ticketemails" code="ardepartment"><![CDATA[Department: ]]></phrase>
+<phrase section="ticketemails" code="aremail"><![CDATA[Email: ]]></phrase>
+<phrase section="ticketemails" code="arfooter"><![CDATA[Kind regards,]]></phrase>
+<phrase section="ticketemails" code="arintro"><![CDATA[Thank you for contacting us. This is an automated response confirming the receipt of your ticket. One of our agents will get back to you as soon as possible. For your records, the details of the ticket are listed below. When replying, please make sure that the ticket ID is kept in the subject line to ensure that your replies are tracked appropriately.]]></phrase>
+<phrase section="ticketemails" code="arpassword"><![CDATA[Password: ]]></phrase>
+<phrase section="ticketemails" code="arpriority"><![CDATA[Priority: ]]></phrase>
+<phrase section="ticketemails" code="arstatus"><![CDATA[Status: ]]></phrase>
+<phrase section="ticketemails" code="arsubfooter"><![CDATA[You can check the status of or reply to this ticket online at: ]]></phrase>
+<phrase section="ticketemails" code="arsubject"><![CDATA[Subject: ]]></phrase>
+<phrase section="ticketemails" code="articketid"><![CDATA[Ticket ID: ]]></phrase>
+<phrase section="knowledgebase" code="articlehelpful"><![CDATA[This article was helpful]]></phrase>
+<phrase section="knowledgebase" code="articlenothelpful"><![CDATA[This article was not helpful]]></phrase>
+<phrase section="knowledgebase" code="articlevotes"><![CDATA[vote(s)]]></phrase>
+<phrase section="ticketemails" code="artype"><![CDATA[Type: ]]></phrase>
+<phrase section="tickets" code="badgebcc"><![CDATA[BCC]]></phrase>
+<phrase section="tickets" code="badgecc"><![CDATA[Recipient]]></phrase>
+<phrase section="tickets" code="badgestaff"><![CDATA[Staff]]></phrase>
+<phrase section="tickets" code="badgethirdparty"><![CDATA[Third Party]]></phrase>
+<phrase section="tickets" code="badgeuser"><![CDATA[User]]></phrase>
+<phrase section="default" code="buttonback"><![CDATA[&laquo; Back]]></phrase>
+<phrase section="default" code="buttonnext"><![CDATA[Next &raquo;]]></phrase>
+<phrase section="default" code="buttonsend"><![CDATA[Send]]></phrase>
+<phrase section="livechatclient" code="buttonstartchat"><![CDATA[Start Chat]]></phrase>
+<phrase section="default" code="buttonsubmit"><![CDATA[Submit]]></phrase>
+<phrase section="default" code="buttonupdate"><![CDATA[Update]]></phrase>
+<phrase section="default" code="bytes"><![CDATA[Bytes]]></phrase>
+<phrase section="mime" code="bz"><![CDATA[BZ File]]></phrase>
+<phrase section="mime" code="bz2"><![CDATA[BZ2 File]]></phrase>
+<phrase section="livechatclient" code="callme"><![CDATA[Call Me]]></phrase>
+<phrase section="default" code="cancel"><![CDATA[Cancel]]></phrase>
+<phrase section="default" code="captchadesc"><![CDATA[Please enter the text you see in the image into the textbox below. This is required to prevent automated registrations and form submissions.]]></phrase>
+<phrase section="default" code="captchaverification"><![CDATA[CAPTCHA Verification]]></phrase>
+<phrase section="users" code="changepasswordtitle"><![CDATA[Change Password]]></phrase>
+<phrase section="default" code="charset"><![CDATA[UTF-8]]></phrase>
+<phrase section="livechatclient" code="chatendednotification"><![CDATA[The chat conversation has ended.]]></phrase>
+<phrase section="livechatclient" code="chatendednotificationsub"><![CDATA[Click here to take a short survey regarding the service you've received during this chat conversation.]]></phrase>
+<phrase section="livechatclient" code="chatendleavemsg"><![CDATA[Click here to leave a message.]]></phrase>
+<phrase section="livechatclient" code="chatendsurvey"><![CDATA[If you would like to take a short survey regarding the service you've received during this chat conversation, press Cancel, otherwise press OK to close this window.]]></phrase>
+<phrase section="livechatclient" code="chatenter"><![CDATA[%s has joined the conference.]]></phrase>
+<phrase section="livechatclient" code="chatexpired"><![CDATA[The chat session has expired or ended.]]></phrase>
+<phrase section="livechatclient" code="chatleave"><![CDATA[%s has left the conversation.]]></phrase>
+<phrase section="livechatclient" code="chatsendemaildesc"><![CDATA[A transcript of the conversation history will be emailed to the address below:]]></phrase>
+<phrase section="livechatclient" code="chattemplategroup"><![CDATA[Template Group]]></phrase>
+<phrase section="livechatclient" code="clickforlivechat"><![CDATA[Click Here for Live Chat]]></phrase>
+<phrase section="livechatclient" code="clickleavemessage"><![CDATA[Live Chat is offline. Click here to leave a message.]]></phrase>
+<phrase section="livechatclient" code="clicktocall"><![CDATA[Click to Call Instantly]]></phrase>
+<phrase section="livechatclient" code="clicktocalltab"><![CDATA[Click to Call]]></phrase>
+<phrase section="default" code="close"><![CDATA[Close]]></phrase>
+<phrase section="default" code="commentconfirmation"><![CDATA[Thank you for submitting your feedback. Your comment might be flagged for review and will appear once approved by our staff.]]></phrase>
+<phrase section="default" code="commentdata"><![CDATA[Comments:]]></phrase>
+<phrase section="default" code="commentemail"><![CDATA[Email:]]></phrase>
+<phrase section="default" code="commentfullname"><![CDATA[Full Name:]]></phrase>
+<phrase section="default" code="comments"><![CDATA[Comments]]></phrase>
+<phrase section="default" code="copyright"><![CDATA[Copyright &copy; 2001-%s Kayako Infotech Ltd.]]></phrase>
+<phrase section="default" code="creationfailed"><![CDATA[Object creation failed.]]></phrase>
+<phrase section="default" code="defaulttimezone"><![CDATA[-- Default Time Zone --]]></phrase>
+<phrase section="default" code="defaulttitle"><![CDATA[<a href="http://www.kayako.com" target="_blank" class="bottomfooterlink">Help Desk Software</a> by Kayako %s]]></phrase>
+<phrase section="mime" code="doc"><![CDATA[MS Word Doc]]></phrase>
+<phrase section="mime" code="docx"><![CDATA[MS Word Doc]]></phrase>
+<phrase section="users" code="emailaccounts"><![CDATA[Email Accounts]]></phrase>
+<phrase section="default" code="emailinvalid"><![CDATA[Specified email address is invalid]]></phrase>
+<phrase section="users" code="emailuserpw"><![CDATA[New Password:]]></phrase>
+<phrase section="default" code="errcaptchainvalid"><![CDATA[CAPTCHA phrase does not match.]]></phrase>
+<phrase section="users" code="errorinvalidfileext"><![CDATA[The profile image file has an invalid extension. Allowed extensions are: gif, jpeg, jpg, png]]></phrase>
+<phrase section="default" code="errorsmtpconnect"><![CDATA[Unable to connect to SMTP server]]></phrase>
+<phrase section="tickets" code="errstinvaliddepartmentid"><![CDATA[Invalid department ID specified; please select a valid department.]]></phrase>
+<phrase section="default" code="event_notreg"><![CDATA[%s event is not registered]]></phrase>
+<phrase section="users" code="existingpassword"><![CDATA[Existing Password:]]></phrase>
+<phrase section="users" code="existingpwdoesnotmatch"><![CDATA[Invalid existing password specified. Unable to continue.]]></phrase>
+<phrase section="livechatclient" code="fieldchatstaff"><![CDATA[Staff:]]></phrase>
+<phrase section="livechatclient" code="fieldchatsubject"><![CDATA[Your Question:]]></phrase>
+<phrase section="livechatclient" code="fieldcomments"><![CDATA[Comments:]]></phrase>
+<phrase section="livechatclient" code="fielddepartment"><![CDATA[Department:]]></phrase>
+<phrase section="livechatclient" code="fieldemail"><![CDATA[Email:]]></phrase>
+<phrase section="livechatclient" code="fieldfullname"><![CDATA[Full Name:]]></phrase>
+<phrase section="livechatclient" code="fieldmessage"><![CDATA[Message:]]></phrase>
+<phrase section="livechatclient" code="fieldphone"><![CDATA[Phone:]]></phrase>
+<phrase section="livechatclient" code="fieldrating"><![CDATA[Rating:]]></phrase>
+<phrase section="livechatclient" code="fieldsubject"><![CDATA[Subject:]]></phrase>
+<phrase section="default" code="file"><![CDATA[File]]></phrase>
+<phrase section="default" code="filterkb"><![CDATA[Knowledgebase]]></phrase>
+<phrase section="default" code="filternews"><![CDATA[News Categories]]></phrase>
+<phrase section="users" code="forgotpasswordemail"><![CDATA[We have received a request to reset your account password at the %1$s support desk (%2$s). If you believe you have received this message in error, you may disregard it.
+
+To reset your password, click the link below or copy and paste the link into your browser location bar:
+
+%3$s
+
+Regards,
+
+
+%1$s]]></phrase>
+<phrase section="default" code="gb"><![CDATA[GB]]></phrase>
+<phrase section="default" code="generalinformation"><![CDATA[General Information]]></phrase>
+<phrase section="users" code="generaloptions"><![CDATA[General Options]]></phrase>
+<phrase section="users" code="generatepasswordemailsubject"><![CDATA[New Password for %s Support Center]]></phrase>
+<phrase section="users" code="generatepasswordfooter"><![CDATA[For more information or if you believe this has been done without your permission, please visit our helpdesk by clicking on the link below.]]></phrase>
+<phrase section="users" code="generatepasswordintro"><![CDATA[Your password for our support center has been reset and can be found below:]]></phrase>
+<phrase section="mime" code="gif"><![CDATA[GIF Image]]></phrase>
+<phrase section="mime" code="gz"><![CDATA[GZIP File]]></phrase>
+<phrase section="default" code="hidden"><![CDATA[[ Hidden ]]]></phrase>
+<phrase section="tickets" code="hideresolvedt"><![CDATA[Hide Resolved Tickets]]></phrase>
+<phrase section="default" code="home"><![CDATA[Home]]></phrase>
+<phrase section="mime" code="htm"><![CDATA[HTML Page]]></phrase>
+<phrase section="mime" code="html"><![CDATA[HTML Page]]></phrase>
+<phrase section="mime" code="ico"><![CDATA[Icon File]]></phrase>
+<phrase section="tickets" code="invalidattachments"><![CDATA[Your attachments have been rejected (due to size/extension restrictions): %s]]></phrase>
+<phrase section="default" code="invalidemail"><![CDATA[Invalid email address specified]]></phrase>
+<phrase section="users" code="invalidorganization"><![CDATA[The Organization does not exist. Please contact support.]]></phrase>
+<phrase section="news" code="invalidsubscriberhash"><![CDATA[Invalid subscriber hash]]></phrase>
+<phrase section="default" code="invaliduser"><![CDATA[Invalid email or password]]></phrase>
+<phrase section="default" code="invaliduseracc"><![CDATA[Invalid user account. The account does not exist.]]></phrase>
+<phrase section="default" code="invaliduserdisabled"><![CDATA[Unable to login. The user account is disabled]]></phrase>
+<phrase section="default" code="invaliduserexpired"><![CDATA[Unable to login. The user account has expired]]></phrase>
+<phrase section="default" code="invalidusertgroupres"><![CDATA[Unable to login. The user group is not authorized to access this template group.]]></phrase>
+<phrase section="users" code="invalidverifyhash"><![CDATA[Invalid or expired hash]]></phrase>
+<phrase section="tickets" code="irsdesc"><![CDATA[The following articles from our knowledgebase might be relevant to what you're looking for.  Please take the time to read them before submitting your ticket.]]></phrase>
+<phrase section="tickets" code="irsloading"><![CDATA[Loading knowledgebase suggestions...]]></phrase>
+<phrase section="tickets" code="irsnoresults"><![CDATA[No relevant knowledgebase articles found.]]></phrase>
+<phrase section="tickets" code="irssuggestions"><![CDATA[Knowledgebase suggestions]]></phrase>
+<phrase section="livechatclient" code="istyping"><![CDATA[%s is typing...]]></phrase>
+<phrase section="mime" code="jar"><![CDATA[JAR File]]></phrase>
+<phrase section="livechatclient" code="joinedchat"><![CDATA[You are now chatting with %s - %s]]></phrase>
+<phrase section="livechatclient" code="joinedchatdep"><![CDATA[You are now chatting with %s]]></phrase>
+<phrase section="mime" code="jpeg"><![CDATA[JPEG Image]]></phrase>
+<phrase section="mime" code="jpg"><![CDATA[JPEG Image]]></phrase>
+<phrase section="default" code="kb"><![CDATA[KB]]></phrase>
+<phrase section="knowledgebase" code="kbattachments"><![CDATA[Attachments]]></phrase>
+<phrase section="knowledgebase" code="kbnopermission"><![CDATA[You do not have the permissions required to view this article, or the article does not exist.]]></phrase>
+<phrase section="knowledgebase" code="knowledgebase"><![CDATA[Knowledgebase]]></phrase>
+<phrase section="default" code="languagefield"><![CDATA[Language:]]></phrase>
+<phrase section="default" code="latestupdates"><![CDATA[Latest Updates]]></phrase>
+<phrase section="livechatclient" code="lcemail"><![CDATA[Email]]></phrase>
+<phrase section="livechatclient" code="lcprint"><![CDATA[Print]]></phrase>
+<phrase section="livechatclient" code="lcsoundoff"><![CDATA[Sound: Off]]></phrase>
+<phrase section="livechatclient" code="lcsoundon"><![CDATA[Sound: On]]></phrase>
+<phrase section="livechatclient" code="leaveamessage"><![CDATA[Leave a Message]]></phrase>
+<phrase section="livechatclient" code="leavemessageconfirmheader"><![CDATA[Thank you for contacting us. One of our team members will review your request and reply shortly.]]></phrase>
+<phrase section="livechatclient" code="leavemessageheader"><![CDATA[To help us serve you better, please provide some information before sending your message.]]></phrase>
+<phrase section="livechatclient" code="livechat"><![CDATA[Live Chat]]></phrase>
+<phrase section="livechatclient" code="livechat_emailsubject"><![CDATA[%s - Live Chat on %s]]></phrase>
+<phrase section="livechatclient" code="livechatheader"><![CDATA[To help us serve you better, please provide some information before we begin your chat.]]></phrase>
+<phrase section="livechatclient" code="livechatheadercall"><![CDATA[Please enter your phone number and other information required below to initiate the call.]]></phrase>
+<phrase section="default" code="loggedinfromstaff"><![CDATA[Logged in as: %s]]></phrase>
+<phrase section="default" code="login"><![CDATA[Login]]></phrase>
+<phrase section="default" code="loginenteremail"><![CDATA[Your email address]]></phrase>
+<phrase section="default" code="logintocontinue"><![CDATA[Please login to continue]]></phrase>
+<phrase section="default" code="logout"><![CDATA[Logout]]></phrase>
+<phrase section="default" code="lostpassword"><![CDATA[Lost password]]></phrase>
+<phrase section="users" code="lostpassworddesc"><![CDATA[Please enter your registered email address below and click Submit. You will receive an email message with a link to reset your password shortly.]]></phrase>
+<phrase section="users" code="lostpasswordemailsubject"><![CDATA[Lost password request for %s Support Center]]></phrase>
+<phrase section="users" code="lostpasswordresetdesc"><![CDATA[Please enter your new password below and click Submit to reset your password.]]></phrase>
+<phrase section="users" code="lostpasswordtitle"><![CDATA[Lost Password]]></phrase>
+<phrase section="users" code="lpinvalidemail"><![CDATA[Unable to locate a user account with "%s" email address]]></phrase>
+<phrase section="users" code="lprequestsent"><![CDATA[Password reset request has been dispatched to "%s"]]></phrase>
+<phrase section="users" code="lpsuccess"><![CDATA[Password updated successfully; you may now login with your new credentials.]]></phrase>
+<phrase section="livechatclient" code="lsbacksoon"><![CDATA[Live Chat will be back soon]]></phrase>
+<phrase section="livechatclient" code="lsisaway"><![CDATA[Live Chat is Away]]></phrase>
+<phrase section="default" code="machangepassword"><![CDATA[Change Password]]></phrase>
+<phrase section="default" code="malogout"><![CDATA[Logout]]></phrase>
+<phrase section="default" code="maorganization"><![CDATA[My Organization]]></phrase>
+<phrase section="default" code="mapreferences"><![CDATA[Preferences]]></phrase>
+<phrase section="default" code="maprofile"><![CDATA[My Profile]]></phrase>
+<phrase section="default" code="mb"><![CDATA[MB]]></phrase>
+<phrase section="default" code="module_notreg"><![CDATA[%s module is not registered]]></phrase>
+<phrase section="knowledgebase" code="mostpopular"><![CDATA[Most Popular]]></phrase>
+<phrase section="mime" code="mov"><![CDATA[QuickTime Movie]]></phrase>
+<phrase section="mime" code="mp3"><![CDATA[MPEG Audio]]></phrase>
+<phrase section="mime" code="mpeg"><![CDATA[MPEG Video]]></phrase>
+<phrase section="mime" code="mpg"><![CDATA[MPEG Video]]></phrase>
+<phrase section="default" code="myaccount"><![CDATA[Account]]></phrase>
+<phrase section="users" code="myorganization"><![CDATA[My Organization]]></phrase>
+<phrase section="default" code="na"><![CDATA[- NA -]]></phrase>
+<phrase section="news" code="newerposts"><![CDATA[Newer Posts &raquo;]]></phrase>
+<phrase section="users" code="newpassword"><![CDATA[New Password:]]></phrase>
+<phrase section="users" code="newpasswordrepeat"><![CDATA[New Password (repeat):]]></phrase>
+<phrase section="users" code="newpwdoesnotmatch"><![CDATA[The passwords specified do not match.]]></phrase>
+<phrase section="users" code="newpwupdated"><![CDATA[User password updated successfully.]]></phrase>
+<phrase section="news" code="news"><![CDATA[News]]></phrase>
+<phrase section="news" code="newsnotfound"><![CDATA[News item not found.]]></phrase>
+<phrase section="default" code="no"><![CDATA[No]]></phrase>
+<phrase section="default" code="noinfoinview"><![CDATA[No information available in this view]]></phrase>
+<phrase section="default" code="nopermission"><![CDATA[Unable to continue. You do not have permission to carry out this action.]]></phrase>
+<phrase section="default" code="nosearchresults"><![CDATA[No Results Found]]></phrase>
+<phrase section="news" code="nwsubconfirmsub"><![CDATA[News subscription confirmed]]></phrase>
+<phrase section="news" code="nwsubconintro"><![CDATA[Your subscription to our news feed has been confirmed. You will now receive automatic updates whenever a new article is posted. You may unsubscribe at any point in time by clicking on the link below.]]></phrase>
+<phrase section="news" code="nwsubfooter"><![CDATA[Please let us know if we can be of any further assistance,]]></phrase>
+<phrase section="news" code="nwsubintro"><![CDATA[Thank you for subscribing to our news feed. You will need to validate your subscription in order to receive updates. Please click on the link below to activate your subscription.]]></phrase>
+<phrase section="news" code="nwvalidatesubscriptionsub"><![CDATA[Validate your news subscription]]></phrase>
+<phrase section="livechatclient" code="offline"><![CDATA[Offline]]></phrase>
+<phrase section="news" code="olderposts"><![CDATA[&laquo; Older Posts]]></phrase>
+<phrase section="default" code="on"><![CDATA[on]]></phrase>
+<phrase section="livechatclient" code="online"><![CDATA[Online]]></phrase>
+<phrase section="livechatclient" code="onsiterequest"><![CDATA[To allow our operator to assist you, please download the OnSite&reg; remote support program by clicking the link below. This program enables your computer to be temporarily controlled by our staff. If you wish to stop sharing control of your computer at any time, hold down Control and press the F1 key on your keyboard.]]></phrase>
+<phrase section="livechatclient" code="onsiterequesttitle"><![CDATA[Our operator would like to control your mouse and keyboard]]></phrase>
+<phrase section="livechatclient" code="onsitewindows"><![CDATA[Click here to download OnSite for Windows]]></phrase>
+<phrase section="users" code="orgaddress"><![CDATA[Address:]]></phrase>
+<phrase section="users" code="orgcity"><![CDATA[City:]]></phrase>
+<phrase section="users" code="orgcountry"><![CDATA[Country:]]></phrase>
+<phrase section="users" code="orgfax"><![CDATA[Fax:]]></phrase>
+<phrase section="users" code="orgname"><![CDATA[Organization Name:]]></phrase>
+<phrase section="users" code="orgphone"><![CDATA[Phone:]]></phrase>
+<phrase section="users" code="orgprofile"><![CDATA[Organization Profile]]></phrase>
+<phrase section="users" code="orgstate"><![CDATA[State:]]></phrase>
+<phrase section="users" code="orgupdated"><![CDATA[Your organization profile has been updated successfully]]></phrase>
+<phrase section="users" code="orgwebsite"><![CDATA[Website:]]></phrase>
+<phrase section="users" code="orgzip"><![CDATA[ZIP/Postal Code:]]></phrase>
+<phrase section="users" code="passworddetails"><![CDATA[Password Details]]></phrase>
+<phrase section="mime" code="pdf"><![CDATA[PDF Document]]></phrase>
+<phrase section="livechatclient" code="peopleaheadinqueue"><![CDATA[There are currently %s chat request(s) before you in the chat queue.]]></phrase>
+<phrase section="mime" code="php"><![CDATA[PHP Script File]]></phrase>
+<phrase section="default" code="pleasetypeyourquery"><![CDATA[Please type your search query here]]></phrase>
+<phrase section="default" code="pleasetypeyourquestion"><![CDATA[Please type your question here]]></phrase>
+<phrase section="livechatclient" code="pleasewaitoperator"><![CDATA[Please wait, an operator will be with you shortly.]]></phrase>
+<phrase section="mime" code="png"><![CDATA[PNG Image]]></phrase>
+<phrase section="default" code="postedby"><![CDATA[Posted by]]></phrase>
+<phrase section="default" code="postnewcomment"><![CDATA[Post a new comment]]></phrase>
+<phrase section="default" code="poweredby"><![CDATA[Powered by Kayako %s Help Desk Software]]></phrase>
+<phrase section="mime" code="ppt"><![CDATA[PowerPoint Doc]]></phrase>
+<phrase section="mime" code="pptx"><![CDATA[PowerPoint Doc]]></phrase>
+<phrase section="users" code="praddemail"><![CDATA[Add Email]]></phrase>
+<phrase section="users" code="preferencestitle"><![CDATA[Preferences]]></phrase>
+<phrase section="users" code="prenabledst"><![CDATA[Enable DST:]]></phrase>
+<phrase section="users" code="prfullname"><![CDATA[Full Name:]]></phrase>
+<phrase section="default" code="private"><![CDATA[[ Private ]]]></phrase>
+<phrase section="users" code="prlanguage"><![CDATA[Language:]]></phrase>
+<phrase section="users" code="prnoemailprovided"><![CDATA[You must specify at least one valid email address]]></phrase>
+<phrase section="livechatclient" code="proactivechatnow"><![CDATA[Chat Now]]></phrase>
+<phrase section="livechatclient" code="proactivemsg"><![CDATA[Our agents are ready to assist you. Click &quot;Chat Now&quot; to be connected to one instantly.]]></phrase>
+<phrase section="livechatclient" code="proactivetitle"><![CDATA[Can I help you?]]></phrase>
+<phrase section="livechatclient" code="proactivevisitorname"><![CDATA[Visitor]]></phrase>
+<phrase section="users" code="profiledetails"><![CDATA[Profile Details]]></phrase>
+<phrase section="users" code="profiletitle"><![CDATA[My Profile]]></phrase>
+<phrase section="users" code="prorganization"><![CDATA[Organization:]]></phrase>
+<phrase section="users" code="prphone"><![CDATA[Phone Number:]]></phrase>
+<phrase section="users" code="prphoneregistered"><![CDATA["%s" phone number is already registered.]]></phrase>
+<phrase section="users" code="prprofileimage"><![CDATA[Profile Image:]]></phrase>
+<phrase section="users" code="prprofileupdate"><![CDATA[Your profile has been updated successfully]]></phrase>
+<phrase section="users" code="prtimezone"><![CDATA[Timezone:]]></phrase>
+<phrase section="users" code="prtitleposition"><![CDATA[Title/Position:]]></phrase>
+<phrase section="users" code="prupdated"><![CDATA[Your preferences have been updated successfully]]></phrase>
+<phrase section="users" code="pwhidden"><![CDATA[[ Hidden ]]]></phrase>
+<phrase section="mime" code="ram"><![CDATA[Real Audio File]]></phrase>
+<phrase section="mime" code="rar"><![CDATA[RAR File]]></phrase>
+<phrase section="default" code="readmore"><![CDATA[Read more &raquo;]]></phrase>
+<phrase section="knowledgebase" code="recentarticles"><![CDATA[Recent Articles]]></phrase>
+<phrase section="users" code="regemail"><![CDATA[Email:]]></phrase>
+<phrase section="users" code="regemailregistered"><![CDATA[Email address is already registered. Use the lost password option to retrieve your password, or specify a different email address.]]></phrase>
+<phrase section="users" code="regemailregisteredsmall"><![CDATA["%s" email address is already registered.]]></phrase>
+<phrase section="ticketemails" code="regemailrejectfooter"><![CDATA[Once registered, you will be able to submit tickets directly by sending us an email. We are sorry for any inconvenience this may have caused.]]></phrase>
+<phrase section="ticketemails" code="regemailrejectintro"><![CDATA[Your ticket has not been accepted into the system. You are required to create an account before you can create any tickets via email. Please register at the following URL:]]></phrase>
+<phrase section="ticketemails" code="regemailrejectsub"><![CDATA[Registration required: Unable to create ticket]]></phrase>
+<phrase section="users" code="regfullname"><![CDATA[Full Name:]]></phrase>
+<phrase section="users" code="reginvalidemail"><![CDATA[Invalid email address specified]]></phrase>
+<phrase section="users" code="registerdesc"><![CDATA[Please fill in the fields below to register for a new account. Once registered, you may need to validate your email address to fully enable your account.]]></phrase>
+<phrase section="users" code="registeremailsubject"><![CDATA[Welcome to %s Support Center]]></phrase>
+<phrase section="users" code="registeremailvalidationsubject"><![CDATA[Registration at %s Support Center]]></phrase>
+<phrase section="users" code="registersuccessemail"><![CDATA[This message serves as confirmation that you are now successfully registered in our support center.
+
+Registered Email: %3$s
+Password: [HIDDEN]
+
+You can visit the Support Desk at any time by going to %2$s
+
+Please do let us know if you have any questions.
+
+Regards,
+
+
+%1$s]]></phrase>
+<phrase section="users" code="registersuccesstitle"><![CDATA[Registration Successful]]></phrase>
+<phrase section="users" code="registertitle"><![CDATA[Create a new account]]></phrase>
+<phrase section="users" code="registervalidateemail"><![CDATA[We have received your registration request at the %1$s support desk (%2$s).
+
+Before you can use your new account you must activate it - this ensures the email address you used is valid and belongs to you.
+To activate your account, please click the link below or copy and paste the link into your browser's location bar:
+
+%3$s
+
+If you believe you have received this message in error, you do not need to take any action to cancel the account. The account will not be activated, and you will not receive any further messages from us.
+
+Regards,
+
+
+%1$s]]></phrase>
+<phrase section="users" code="registerwelcomeemail"><![CDATA[This message serves as confirmation that you are now successfully registered in our support center.
+
+Registered Email: %3$s
+Password: %4$s
+
+You can visit the Support Desk at any time by going to %2$s
+
+Please do let us know if you have any questions.
+
+Regards,
+
+
+%1$s]]></phrase>
+<phrase section="users" code="registrationdetails"><![CDATA[Registration details]]></phrase>
+<phrase section="users" code="regpassword"><![CDATA[Password:]]></phrase>
+<phrase section="users" code="regpasswordrepeat"><![CDATA[Password (repeat):]]></phrase>
+<phrase section="users" code="regpwnomatch"><![CDATA[The passwords entered do not match.]]></phrase>
+<phrase section="users" code="regsignup"><![CDATA[Sign Up]]></phrase>
+<phrase section="users" code="regsuccessdesc"><![CDATA[Thank you for registering! A copy of your registration details have been sent to your email address. Please use the login form beside this text to log in.]]></phrase>
+<phrase section="default" code="rememberme"><![CDATA[Remember me]]></phrase>
+<phrase section="default" code="reply"><![CDATA[Reply]]></phrase>
+<phrase section="default" code="replytocomment"><![CDATA[Reply to comment]]></phrase>
+<phrase section="default" code="requiredfieldempty"><![CDATA[One of the required field(s) is empty]]></phrase>
+<phrase section="default" code="rssfeed"><![CDATA[RSS Feed]]></phrase>
+<phrase section="mime" code="rtf"><![CDATA[Rich Text Format File]]></phrase>
+<phrase section="default" code="salutationdr"><![CDATA[Dr.]]></phrase>
+<phrase section="default" code="salutationmiss"><![CDATA[Ms.]]></phrase>
+<phrase section="default" code="salutationmr"><![CDATA[Mr.]]></phrase>
+<phrase section="default" code="salutationmrs"><![CDATA[Mrs.]]></phrase>
+<phrase section="default" code="searchbutton"><![CDATA[SEARCH]]></phrase>
+<phrase section="default" code="searchresults"><![CDATA[Search Results]]></phrase>
+<phrase section="tickets" code="selectdepartmentdesc"><![CDATA[If you can't find a solution to your problem in our knowledgebase, you can submit a ticket by selecting the appropriate department below.]]></phrase>
+<phrase section="tickets" code="selectdepartmenttitle"><![CDATA[Select a department]]></phrase>
+<phrase section="livechatclient" code="send"><![CDATA[Send]]></phrase>
+<phrase section="tickets" code="st_department"><![CDATA[Department]]></phrase>
+<phrase section="tickets" code="st_email"><![CDATA[Email]]></phrase>
+<phrase section="tickets" code="st_fullname"><![CDATA[Full Name]]></phrase>
+<phrase section="tickets" code="st_messagedetails"><![CDATA[Message Details]]></phrase>
+<phrase section="tickets" code="st_priority"><![CDATA[Priority]]></phrase>
+<phrase section="tickets" code="st_subject"><![CDATA[Subject]]></phrase>
+<phrase section="tickets" code="st_subjectconfirm"><![CDATA[Subject: ]]></phrase>
+<phrase section="tickets" code="st_ticketid"><![CDATA[Ticket ID]]></phrase>
+<phrase section="tickets" code="st_type"><![CDATA[Type]]></phrase>
+<phrase section="tickets" code="st_yourcomments"><![CDATA[Comments]]></phrase>
+<phrase section="tickets" code="st_yourfeedback"><![CDATA[Your feedback]]></phrase>
+<phrase section="livechatclient" code="staffnotacceptedchat"><![CDATA[Your message could not be delivered. Please wait for an operator to accept your chat request.]]></phrase>
+<phrase section="tickets" code="sterr_invaliddepartment"><![CDATA[Invalid department specified; please start over.]]></phrase>
+<phrase section="tickets" code="sterr_invalidpriority"><![CDATA[Invalid ticket priority specified; please start over.]]></phrase>
+<phrase section="tickets" code="sterr_invalidtype"><![CDATA[Invalid ticket type specified; please start over.]]></phrase>
+<phrase section="tickets" code="submitticketdepartments"><![CDATA[Departments]]></phrase>
+<phrase section="default" code="subscribe"><![CDATA[Subscribe]]></phrase>
+<phrase section="news" code="subscriberregistered"><![CDATA[%s is already subscribed to the news feed.]]></phrase>
+<phrase section="default" code="supportcenterfield"><![CDATA[Support Center:]]></phrase>
+<phrase section="livechatclient" code="surveyconfirmheader"><![CDATA[Thank you for completing the survey. You may now close this window.]]></phrase>
+<phrase section="ticketemails" code="surveycta"><![CDATA[To take the survey, please click on the following link: ]]></phrase>
+<phrase section="tickets" code="surveydesc"><![CDATA[Thank you for taking the short survey. Your feedback is very important to us and will help us improve our customer support experience!]]></phrase>
+<phrase section="ticketemails" code="surveydescription1"><![CDATA[As part of our commitment to improving your customer support experience, we would like to know how you think we are doing.]]></phrase>
+<phrase section="ticketemails" code="surveydescription2"><![CDATA[You are invited to complete a short satisfaction survey consisting of just a few multiple-choice questions.]]></phrase>
+<phrase section="ticketemails" code="surveydescription3"><![CDATA[It should take you no more than a minute to complete (we promise!).]]></phrase>
+<phrase section="ticketemails" code="surveyfooter"><![CDATA[Thank you in advance,]]></phrase>
+<phrase section="livechatclient" code="surveyheader"><![CDATA[Your feedback is very important to us and we would like to know how you think we are doing. Please complete the short survey below to rate your experience.]]></phrase>
+<phrase section="ticketemails" code="surveyintro"><![CDATA[This email concerns your recent ticket]]></phrase>
+<phrase section="ticketemails" code="surveysubfooter"><![CDATA[Your feedback is very important to us and we really appreciate your time.]]></phrase>
+<phrase section="mime" code="swf"><![CDATA[Macromedia Flash File]]></phrase>
+<phrase section="tickets" code="taddfile"><![CDATA[Add File]]></phrase>
+<phrase section="mime" code="tar"><![CDATA[TAR File]]></phrase>
+<phrase section="news" code="thankyousubscriber"><![CDATA[Thank you for subscribing to our news feed.]]></phrase>
+<phrase section="news" code="thankyousubscribervalidate"><![CDATA[Thank you. Please check your email to confirm your subscription.]]></phrase>
+<phrase section="tickets" code="thankyousurvey"><![CDATA[Thank you for your feedback!]]></phrase>
+<phrase section="news" code="thankyouunsubscriber"><![CDATA[You have successfully unsubscribed from our news feed.]]></phrase>
+<phrase section="ticketemails" code="thattachments"><![CDATA[Attachments]]></phrase>
+<phrase section="ticketemails" code="thbcc"><![CDATA[Recipient (BCC)]]></phrase>
+<phrase section="ticketemails" code="thcc"><![CDATA[Recipient (CC)]]></phrase>
+<phrase section="ticketemails" code="thclient"><![CDATA[Client]]></phrase>
+<phrase section="ticketemails" code="thpostedon"><![CDATA[Posted On:]]></phrase>
+<phrase section="ticketemails" code="threcipient"><![CDATA[Recipient]]></phrase>
+<phrase section="ticketemails" code="thstaff"><![CDATA[Staff]]></phrase>
+<phrase section="ticketemails" code="ththirdparty"><![CDATA[Third Party]]></phrase>
+<phrase section="ticketemails" code="ticketdetails"><![CDATA[Ticket Details]]></phrase>
+<phrase section="ticketemails" code="tickethistory"><![CDATA[Ticket History]]></phrase>
+<phrase section="tickets" code="ticketpermdenied"><![CDATA[Invalid ticket ID or you do not have permission to access this ticket]]></phrase>
+<phrase section="tickets" code="ticketsubmitteddesc"><![CDATA[We have received your request and will get back to you with further details shortly. You can login to the support center or check your mailbox for further updates.]]></phrase>
+<phrase section="tickets" code="ticketsubmittedtitle"><![CDATA[Your request has been received]]></phrase>
+<phrase section="tickets" code="ticketsurveytickettitle"><![CDATA[Survey: #]]></phrase>
+<phrase section="tickets" code="ticketviewticketidtitle"><![CDATA[View Ticket: #]]></phrase>
+<phrase section="tickets" code="ticketviewtickettitle"><![CDATA[View Tickets]]></phrase>
+<phrase section="tickets" code="tldepartment"><![CDATA[Department]]></phrase>
+<phrase section="tickets" code="tllastreplier"><![CDATA[Last Replier]]></phrase>
+<phrase section="tickets" code="tllastupdate"><![CDATA[Last Update]]></phrase>
+<phrase section="tickets" code="tlpriority"><![CDATA[Priority]]></phrase>
+<phrase section="tickets" code="tlstatus"><![CDATA[Status]]></phrase>
+<phrase section="tickets" code="tlticketid"><![CDATA[Ticket ID]]></phrase>
+<phrase section="tickets" code="tltype"><![CDATA[Type]]></phrase>
+<phrase section="tickets" code="tpemailforwardedto"><![CDATA[Forwarded To: %s]]></phrase>
+<phrase section="tickets" code="tpemailto"><![CDATA[Email To: %s]]></phrase>
+<phrase section="tickets" code="tppostedon"><![CDATA[Posted on: %s]]></phrase>
+<phrase section="tickets" code="trash"><![CDATA[Trash]]></phrase>
+<phrase section="troubleshooter" code="trattachments"><![CDATA[Attachments]]></phrase>
+<phrase section="troubleshooter" code="trback"><![CDATA[&laquo; Back]]></phrase>
+<phrase section="troubleshooter" code="trcategoryviews"><![CDATA[ (%d Views)]]></phrase>
+<phrase section="troubleshooter" code="trnext"><![CDATA[Next &raquo;]]></phrase>
+<phrase section="troubleshooter" code="trnextsteps"><![CDATA[Next Steps]]></phrase>
+<phrase section="troubleshooter" code="troubleshooter"><![CDATA[Troubleshooter]]></phrase>
+<phrase section="troubleshooter" code="troubleshooterdesc"><![CDATA[Troubleshooter wizards guide you through a series of steps in order to diagnose and resolve common problems. Begin by choosing a troubleshooter category.]]></phrase>
+<phrase section="tickets" code="tsupdate"><![CDATA[Updated On: %s]]></phrase>
+<phrase section="mime" code="txt"><![CDATA[Text File]]></phrase>
+<phrase section="default" code="unable_to_execute"><![CDATA[Unable to execute %s]]></phrase>
+<phrase section="tickets" code="unassigned"><![CDATA[Unassigned]]></phrase>
+<phrase section="default" code="unsubscribe"><![CDATA[Unsubscribe]]></phrase>
+<phrase section="tickets" code="updatedticketproperties"><![CDATA[Successfully updated the ticket properties]]></phrase>
+<phrase section="tickets" code="uploadfiles"><![CDATA[Upload File(s)]]></phrase>
+<phrase section="users" code="userfirstprompt"><![CDATA[Login Successful. Please enter your profile information below.]]></phrase>
+<phrase section="ticketemails" code="validationemailrejectfooter"><![CDATA[Once your account has been validated, you will be able to submit tickets directly by sending us an email. We are sorry for any inconvenience this may have caused.]]></phrase>
+<phrase section="ticketemails" code="validationemailrejectsub"><![CDATA[Account not validated: Unable to create ticket]]></phrase>
+<phrase section="ticketemails" code="validationmailrejectintro_generic"><![CDATA[Your ticket has not been accepted into the system. Although a support desk account exists for your email address, the account has not yet been validated.]]></phrase>
+<phrase section="ticketemails" code="validationmailrejectintro_staff"><![CDATA[Your ticket has not been accepted into the system. Although a support desk account exists for your email address, all accounts must be manually approved by a support desk administrator. Until this has been done, you will not be able to send email messages to the support desk.]]></phrase>
+<phrase section="users" code="validationpendingesc"><![CDATA[Thank you for registering. We have sent you an email message with an activation link. Please follow the link to verify your email address. You must complete this process before you can log in.]]></phrase>
+<phrase section="users" code="validationpendingtitle"><![CDATA[Email validation required]]></phrase>
+<phrase section="default" code="vardate1"><![CDATA[%dd %dh %dm]]></phrase>
+<phrase section="default" code="vardate2"><![CDATA[%dh %dm %ds]]></phrase>
+<phrase section="default" code="vardate3"><![CDATA[%dm %ds]]></phrase>
+<phrase section="default" code="vardate4"><![CDATA[%ds]]></phrase>
+<phrase section="users" code="verifyregistration"><![CDATA[Verify Registration]]></phrase>
+<phrase section="tickets" code="verifyticketsubmission"><![CDATA[Verify Ticket Submission]]></phrase>
+<phrase section="default" code="viewallnews"><![CDATA[View all news]]></phrase>
+<phrase section="tickets" code="viewresolvedt"><![CDATA[View Resolved Tickets]]></phrase>
+<phrase section="tickets" code="vtcreated"><![CDATA[Created:]]></phrase>
+<phrase section="tickets" code="vtdepartment"><![CDATA[DEPARTMENT]]></phrase>
+<phrase section="tickets" code="vtowner"><![CDATA[OWNER]]></phrase>
+<phrase section="tickets" code="vtpostreply"><![CDATA[Post Reply]]></phrase>
+<phrase section="tickets" code="vtpriority"><![CDATA[PRIORITY]]></phrase>
+<phrase section="tickets" code="vtstatus"><![CDATA[STATUS]]></phrase>
+<phrase section="tickets" code="vttype"><![CDATA[TYPE]]></phrase>
+<phrase section="tickets" code="vtupdated"><![CDATA[Updated:]]></phrase>
+<phrase section="ticketemails" code="watcherprefix"><![CDATA[%s (%s) replied with:]]></phrase>
+<phrase section="mime" code="wav"><![CDATA[WAV File]]></phrase>
+<phrase section="default" code="widgetdownloads"><![CDATA[Downloads]]></phrase>
+<phrase section="default" code="widgethome"><![CDATA[Home]]></phrase>
+<phrase section="default" code="widgetknowledgebase"><![CDATA[Knowledgebase]]></phrase>
+<phrase section="default" code="widgetnews"><![CDATA[News]]></phrase>
+<phrase section="default" code="widgetregister"><![CDATA[Register]]></phrase>
+<phrase section="default" code="widgetsubmitticket"><![CDATA[Submit a Ticket]]></phrase>
+<phrase section="default" code="widgettroubleshooter"><![CDATA[Troubleshooter]]></phrase>
+<phrase section="default" code="widgetviewtickets"><![CDATA[View Tickets]]></phrase>
+<phrase section="mime" code="xls"><![CDATA[Excel File]]></phrase>
+<phrase section="mime" code="xlsx"><![CDATA[Excel File]]></phrase>
+<phrase section="default" code="yes"><![CDATA[Yes]]></phrase>
+<phrase section="tickets" code="yourticketdetailsdesc"><![CDATA[Enter your ticket details below. If you are reporting a problem, please remember to provide as much information that is relevant to the issue as possible.]]></phrase>
+<phrase section="tickets" code="yourticketdetailstitle"><![CDATA[Your ticket details]]></phrase>
+<phrase section="mime" code="zip"><![CDATA[ZIP File]]></phrase>
+</swiftlanguage>

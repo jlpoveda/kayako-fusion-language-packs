@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- XML Generated On: 14 August 2012 02:33 PM -->
+<swiftlanguage>
+<title><![CDATA[French]]></title>
+<isocode><![CDATA[fr]]></isocode>
+<author><![CDATA[Jose Luis Poveda]]></author>
+<charset><![CDATA[UTF-8]]></charset>
+<textdirection><![CDATA[LTR]]></textdirection>
+<version><![CDATA[4.40.1148]]></version>
+<flagicon><![CDATA[{$themepath}fr.gif]]></flagicon>
+<phrase section="users" code="accountinformation"><![CDATA[Informations compte]]></phrase>
+<phrase section="ticketemails" code="acfinalintro"><![CDATA[Ce message concerne le ticket ID #%s. Nous changeons le statut du ticket à "%s" car nous n'avons pas reçu de réponse de votre part dans les %s heures.]]></phrase>
+<phrase section="ticketemails" code="acfinalsubfooter"><![CDATA[Si vous avez d'autres questions, n'hésitez pas à nous en faire part. Vous pouvez contrôler le statut du ticket à tout moment, ou y répondre ici: ]]></phrase>
+<phrase section="ticketemails" code="acpendingintro"><![CDATA[Ce message concerne votre ticket #%s. Nous n'avons pas reçu de réponse en retour de votre part depuis %s heures, et nous voudrions savoir si vous considérez ce problème comme résolu. Si vous avez d'autres questions, il vous suffit de répondre à cet e-mail.]]></phrase>
+<phrase section="ticketemails" code="acpendingsubfooter"><![CDATA[Veuillez prendre note que ce ticket sera automatiquement fermé d'ici %s heures si vous ne fournissez aucune réponse. Le ticket ne sera pas fermé si vous envoyez une nouvelle réponse. Vous pouvez vérifier le statut ou répondre à ce ticket à cette adresse: ]]></phrase>
+<phrase section="default" code="action_notreg"><![CDATA[l'action %s n'est pas enregistrée]]></phrase>
+<phrase section="default" code="addacomment"><![CDATA[Ajouter un commentaire]]></phrase>
+<phrase section="livechatclient" code="alloperatorsbusy"><![CDATA[Votre demande est importante pour nous. Veuillez patienter un opérateur sera avec vous sous peu.]]></phrase>
+<phrase section="ticketemails" code="ardepartment"><![CDATA[Département: ]]></phrase>
+<phrase section="ticketemails" code="aremail"><![CDATA[E-mail: ]]></phrase>
+<phrase section="ticketemails" code="arfooter"><![CDATA[Cordialement,]]></phrase>
+<phrase section="ticketemails" code="arintro"><![CDATA[Merci de nous avoir contacté. Ceci est une réponse automatique afin de confirmer la réception de votre message. Nous traiterons votre ticket dans les meilleurs délais. Nous avons listé des détails de votre requête à notre espace d'aide et de support. Veuillez spécifier le numéro du ticket quand vous nous répondrez afin de suivre au mieux votre dossier.]]></phrase>
+<phrase section="ticketemails" code="arpassword"><![CDATA[Mot de passe: ]]></phrase>
+<phrase section="ticketemails" code="arpriority"><![CDATA[Priorté: ]]></phrase>
+<phrase section="ticketemails" code="arstatus"><![CDATA[Statut: ]]></phrase>
+<phrase section="ticketemails" code="arsubfooter"><![CDATA[Vous pouvez consulter l'état de votre ticket ou répondre en ligne sur: ]]></phrase>
+<phrase section="ticketemails" code="arsubject"><![CDATA[Sujet: ]]></phrase>
+<phrase section="ticketemails" code="articketid"><![CDATA[Ticket ID: ]]></phrase>
+<phrase section="knowledgebase" code="articlehelpful"><![CDATA[Cet article était utile]]></phrase>
+<phrase section="knowledgebase" code="articlenothelpful"><![CDATA[Cet article ne m'a pas été utile]]></phrase>
+<phrase section="knowledgebase" code="articlevotes"><![CDATA[votes]]></phrase>
+<phrase section="ticketemails" code="artype"><![CDATA[Type: ]]></phrase>
+<phrase section="default" code="back"><![CDATA[Précédent]]></phrase>
+<phrase section="tickets" code="badgebcc"><![CDATA[CCC]]></phrase>
+<phrase section="tickets" code="badgecc"><![CDATA[Destinataire]]></phrase>
+<phrase section="tickets" code="badgestaff"><![CDATA[Personnel]]></phrase>
+<phrase section="tickets" code="badgethirdparty"><![CDATA[Partie tierce]]></phrase>
+<phrase section="tickets" code="badgeuser"><![CDATA[Utilisateur]]></phrase>
+<phrase section="default" code="buttonback"><![CDATA[&laquo; Retour]]></phrase>
+<phrase section="default" code="buttonnext"><![CDATA[Suivant &raquo;]]></phrase>
+<phrase section="default" code="buttonsend"><![CDATA[Envoyer]]></phrase>
+<phrase section="livechatclient" code="buttonstartchat"><![CDATA[Démarrer le Chat]]></phrase>
+<phrase section="default" code="buttonsubmit"><![CDATA[Soumettre]]></phrase>
+<phrase section="default" code="buttonupdate"><![CDATA[Mettre à jour]]></phrase>
+<phrase section="default" code="bytes"><![CDATA[Octets]]></phrase>
+<phrase section="mime" code="bz"><![CDATA[Fichier BZ]]></phrase>
+<phrase section="mime" code="bz2"><![CDATA[Fichier BZ2]]></phrase>
+<phrase section="livechatclient" code="callme"><![CDATA[Appelez-moi]]></phrase>
+<phrase section="default" code="cancel"><![CDATA[Annuler]]></phrase>
+<phrase section="default" code="captchadesc"><![CDATA[Veuillez entrer le text qui apparaît dans l'image ci dessous. Ceci est requis pour éviter les enregistrement automatisés.]]></phrase>
+<phrase section="default" code="captchaverification"><![CDATA[Vérification CAPTCHA]]></phrase>
+<phrase section="default" code="changepassword"><![CDATA[Modofier votre met de passe]]></phrase>
+<phrase section="users" code="changepasswordtitle"><![CDATA[Changer mot de passe]]></phrase>
+<phrase section="default" code="charset"><![CDATA[UTF-8]]></phrase>
+<phrase section="livechatclient" code="chatendednotification"><![CDATA[La conversation est terminée.]]></phrase>
+<phrase section="livechatclient" code="chatendednotificationsub"><![CDATA[Cliquez ici pour répondre à un court sondage concernant le service fourni lors de cette conversation]]></phrase>
+<phrase section="livechatclient" code="chatendleavemsg"><![CDATA[Cliquez ici pour laisser un message]]></phrase>
+<phrase section="livechatclient" code="chatendsurvey"><![CDATA[Si vous souhaitez répondre à une court sondage concernant le service fourni lors de cette conversation, appuyez sur Annuler, sinon, appuyez sur OK pour fermer cette fenêtre.]]></phrase>
+<phrase section="livechatclient" code="chatenter"><![CDATA[%s a rejoint la conférence]]></phrase>
+<phrase section="livechatclient" code="chatexpired"><![CDATA[La session Chat a expiré ou est terminée]]></phrase>
+<phrase section="livechatclient" code="chatleave"><![CDATA[%s a quitté la conversation]]></phrase>
+<phrase section="livechatclient" code="chatsendemaildesc"><![CDATA[Une transcription de l'historique de cette conversation sera envoyée à l'adresse ci-dessous:]]></phrase>
+<phrase section="livechatclient" code="chattemplategroup"><![CDATA[Group de modèle]]></phrase>
+<phrase section="livechatclient" code="clickforlivechat"><![CDATA[Cliquez ici pour un Chat en direct]]></phrase>
+<phrase section="livechatclient" code="clickleavemessage"><![CDATA[Le Chat en direct est hors-ligne. Cliquez ici pour laisser un message]]></phrase>
+<phrase section="livechatclient" code="clicktocall"><![CDATA[Cliquez pour appeler instantanément]]></phrase>
+<phrase section="livechatclient" code="clicktocalltab"><![CDATA[Cliquez pour appeler]]></phrase>
+<phrase section="default" code="close"><![CDATA[Fermer]]></phrase>
+<phrase section="default" code="cmcomments"><![CDATA[Commentaires:]]></phrase>
+<phrase section="default" code="cmemail"><![CDATA[E-mail: (facultatif)]]></phrase>
+<phrase section="default" code="cmname"><![CDATA[Nom et prénom:]]></phrase>
+<phrase section="default" code="commentconfirmation"><![CDATA[Merci pour avoir soumis votre avis. Il sera soumis à approbation à notre personnel pour publication]]></phrase>
+<phrase section="default" code="commentdata"><![CDATA[Commentaires:]]></phrase>
+<phrase section="default" code="commentemail"><![CDATA[E-mail:]]></phrase>
+<phrase section="default" code="commentfullname"><![CDATA[Nom complet:]]></phrase>
+<phrase section="default" code="comments"><![CDATA[Commentaires]]></phrase>
+<phrase section="default" code="commentsdesc"><![CDATA[Si vous désirez laisser un commentaire sur cette donnée, n'hésitez pas à le partager. Les commentaires peuvent être revues par notre équipe et peuvent être sujet de validation avant d'être affichés.]]></phrase>
+<phrase section="default" code="copyright"><![CDATA[Copyright &copy; 2001-%s Kayako Infotech Ltd.]]></phrase>
+<phrase section="default" code="creationfailed"><![CDATA[La création d'objet a échoué]]></phrase>
+<phrase section="default" code="defaulttimezone"><![CDATA[-- Fuseau horaire standard --]]></phrase>
+<phrase section="default" code="defaulttitle"><![CDATA[<a href="http://www.kayako.com" target="_blank" class="bottomfooterlink">Help Desk Software</a> par Kayako %s]]></phrase>
+<phrase section="default" code="desc_downloads"><![CDATA[Consultez notre bibliothèque de téléchargements pour tous les manuels nécessaires.]]></phrase>
+<phrase section="default" code="desc_knowledgebase"><![CDATA[Parcourez une liste de réponses à des questions qu'on nous a posé plus d'une fois.]]></phrase>
+<phrase section="default" code="desc_news"><![CDATA[Consulter les dernières annonces de l?entreprise.]]></phrase>
+<phrase section="default" code="desc_register"><![CDATA[Enregistrez un nouveau compte pour soumettre des tickets ou de les mettre à jour.]]></phrase>
+<phrase section="default" code="desc_submitticket"><![CDATA[Besoin d'une aide ? n'hésitez pas à nous contacter pour toute question ou demande.]]></phrase>
+<phrase section="default" code="desc_troubleshooter"><![CDATA[Suivez ces procédures afin de trouver la solution idéale pour votre problème.]]></phrase>
+<phrase section="default" code="desc_viewtickets"><![CDATA[Soumettez un nouveau ticket, consultez ou mettez à jour les tickets en cours.]]></phrase>
+<phrase section="mime" code="doc"><![CDATA[Document Word]]></phrase>
+<phrase section="mime" code="docx"><![CDATA[Document Word]]></phrase>
+<phrase section="default" code="downloads"><![CDATA[Téléchargements]]></phrase>
+<phrase section="users" code="emailaccounts"><![CDATA[Comptes e-mail]]></phrase>
+<phrase section="default" code="emailinvalid"><![CDATA[L'adresse e-mail spécifiée est invalide]]></phrase>
+<phrase section="users" code="emailuserpw"><![CDATA[Nouveau mot de passe:]]></phrase>
+<phrase section="default" code="entiresupportsite"><![CDATA[---------- Le site entier ----------]]></phrase>
+<phrase section="default" code="errcaptchainvalid"><![CDATA[La phrase CAPTCHA ne correspond pas]]></phrase>
+<phrase section="users" code="errorinvalidfileext"><![CDATA[Le fichier image du profil possède une extension invalide. Les extensions possibles sont: gif, jpeg, jpg, png]]></phrase>
+<phrase section="default" code="errorsmtpconnect"><![CDATA[Impossible de se connecter au serveur SMTP]]></phrase>
+<phrase section="tickets" code="errstinvaliddepartmentid"><![CDATA[l'ID département spécifié est invalide; Veuillez sélectionner un département valide.]]></phrase>
+<phrase section="default" code="event_notreg"><![CDATA[l'événement %s n'est pas enregistré]]></phrase>
+<phrase section="users" code="existingpassword"><![CDATA[Mot de passe actuel:]]></phrase>
+<phrase section="users" code="existingpwdoesnotmatch"><![CDATA[Le mot de passe actuel est invalide. Impossible de continuer.]]></phrase>
+<phrase section="livechatclient" code="fieldchatstaff"><![CDATA[Personnel:]]></phrase>
+<phrase section="livechatclient" code="fieldchatsubject"><![CDATA[Votre question:]]></phrase>
+<phrase section="livechatclient" code="fieldcomments"><![CDATA[Commentaires:]]></phrase>
+<phrase section="livechatclient" code="fielddepartment"><![CDATA[Département]]></phrase>
+<phrase section="livechatclient" code="fieldemail"><![CDATA[E-mail]]></phrase>
+<phrase section="livechatclient" code="fieldfullname"><![CDATA[Nom complet:]]></phrase>
+<phrase section="livechatclient" code="fieldmessage"><![CDATA[Message:]]></phrase>
+<phrase section="livechatclient" code="fieldphone"><![CDATA[Téléphone:]]></phrase>
+<phrase section="livechatclient" code="fieldrating"><![CDATA[Evaluation]]></phrase>
+<phrase section="livechatclient" code="fieldsubject"><![CDATA[Sujet]]></phrase>
+<phrase section="default" code="file"><![CDATA[Fichier]]></phrase>
+<phrase section="default" code="filterkb"><![CDATA[Base de connaissance]]></phrase>
+<phrase section="default" code="filternews"><![CDATA[Catégories de Nouveautés]]></phrase>
+<phrase section="users" code="forgotpasswordemail"><![CDATA[Nous avons reçu une demande de changement de mot de passe pour le centre de support %1$s (%2$s). Si vous pensez avoir reçu ce message à tort, vous pouvez l'ignorer.
+
+Pour mettre à jour votre mot de passe, cliquez sur le lien ci-dessous ou copiez et collez le lien dans la barre d'adresse de votre navigateur:
+
+%3$s
+
+Meilleures salutations,
+
+
+%1$s]]></phrase>
+<phrase section="default" code="gb"><![CDATA[Go]]></phrase>
+<phrase section="default" code="generalinformation"><![CDATA[Informations gégérales]]></phrase>
+<phrase section="users" code="generaloptions"><![CDATA[Options générales]]></phrase>
+<phrase section="users" code="generatepasswordemailsubject"><![CDATA[Nouveau mot de passe pour le centre de support %s]]></phrase>
+<phrase section="users" code="generatepasswordfooter"><![CDATA[Pour plus d'informations, ou si vous pensez que ceci a été fait sans votre accord, veuillet visiter notre centre de support en cliquant sur le lien ci-dessous.]]></phrase>
+<phrase section="users" code="generatepasswordintro"><![CDATA[Votre mot de passe pour notre centre de support a été réinitialisé. Il se trouve ci-dessous:]]></phrase>
+<phrase section="mime" code="gif"><![CDATA[Image GIF]]></phrase>
+<phrase section="mime" code="gz"><![CDATA[Fichier GZIP]]></phrase>
+<phrase section="default" code="hidden"><![CDATA[[ Caché ]]]></phrase>
+<phrase section="tickets" code="hideresolvedt"><![CDATA[Cacher les tickets résolus]]></phrase>
+<phrase section="default" code="home"><![CDATA[Accueil]]></phrase>
+<phrase section="mime" code="htm"><![CDATA[Page HTML]]></phrase>
+<phrase section="mime" code="html"><![CDATA[Page HTML]]></phrase>
+<phrase section="default" code="html_charset"><![CDATA[UTF-8]]></phrase>
+<phrase section="default" code="html_encoding"><![CDATA[quoted-printable]]></phrase>
+<phrase section="mime" code="ico"><![CDATA[Fichier Icône]]></phrase>
+<phrase section="default" code="indexlanguage"><![CDATA[Langue:]]></phrase>
+<phrase section="tickets" code="invalidattachments"><![CDATA[Votre fichier joint a été rejeté (dû aux restrictions de taille/extension): %s]]></phrase>
+<phrase section="default" code="invalidemail"><![CDATA[Adresse e-mail spécifiée invalide]]></phrase>
+<phrase section="users" code="invalidorganization"><![CDATA[L'organisation n'existe pas. Veuillez contacter le support]]></phrase>
+<phrase section="news" code="invalidsubscriberhash"><![CDATA[Hachage abonné invalide]]></phrase>
+<phrase section="default" code="invaliduser"><![CDATA[E-mail ou mot de passe invalide]]></phrase>
+<phrase section="default" code="invaliduseracc"><![CDATA[Compte utilisateur invalide. Le compte n'existe pas.]]></phrase>
+<phrase section="default" code="invaliduserdisabled"><![CDATA[Impossible de se connecter. Le compte utilisateur est désactivé]]></phrase>
+<phrase section="default" code="invaliduserexpired"><![CDATA[Impossible de se connecter. Le compte utilisateur a expiré]]></phrase>
+<phrase section="default" code="invalidusergroup"><![CDATA[Groupe d'utilisateurs invalide]]></phrase>
+<phrase section="default" code="invalidusertgroupres"><![CDATA[Impossible de se connecter. Le groupe utilisateur n'est pas autorisé à accéder à ce modèle de groupe.]]></phrase>
+<phrase section="users" code="invalidverifyhash"><![CDATA[Hachage invalide ou expiré]]></phrase>
+<phrase section="tickets" code="irsdesc"><![CDATA[Les articles suivants de notre foire aux questions pourraient être utiles pour ce que vous recherchez. Veuillez prendre le temps de les lire avant de soumettre votre ticket.]]></phrase>
+<phrase section="tickets" code="irsloading"><![CDATA[Chargement des suggestions de la foire aux questions...]]></phrase>
+<phrase section="tickets" code="irsnoresults"><![CDATA[Aucun article pertinent trouvé dans la foire aux questions.]]></phrase>
+<phrase section="tickets" code="irssuggestions"><![CDATA[Suggestions de la foire aux questions]]></phrase>
+<phrase section="livechatclient" code="istyping"><![CDATA[%s est en train d'écrire...]]></phrase>
+<phrase section="mime" code="jar"><![CDATA[Fichier JAR]]></phrase>
+<phrase section="livechatclient" code="joinedchat"><![CDATA[Vous chattez maintenant avec %s - %s]]></phrase>
+<phrase section="livechatclient" code="joinedchatdep"><![CDATA[Vous chattez maintenant avec %s]]></phrase>
+<phrase section="mime" code="jpeg"><![CDATA[Image JPEG]]></phrase>
+<phrase section="mime" code="jpg"><![CDATA[Image JPEG]]></phrase>
+<phrase section="default" code="kb"><![CDATA[Ko]]></phrase>
+<phrase section="knowledgebase" code="kbattachments"><![CDATA[Pièces jointes]]></phrase>
+<phrase section="knowledgebase" code="kbnopermission"><![CDATA[Vous n'avez pas les droits requis pour voir cet article, ou l'article n'existe pas.]]></phrase>
+<phrase section="knowledgebase" code="knowledgebase"><![CDATA[Base de connaissance]]></phrase>
+<phrase section="default" code="languagefield"><![CDATA[Langue:]]></phrase>
+<phrase section="default" code="latestupdates"><![CDATA[Dernières mises à jour]]></phrase>
+<phrase section="livechatclient" code="lcemail"><![CDATA[E-mail]]></phrase>
+<phrase section="livechatclient" code="lcprint"><![CDATA[Imprimer]]></phrase>
+<phrase section="livechatclient" code="lcsoundoff"><![CDATA[Son: Désactivé]]></phrase>
+<phrase section="livechatclient" code="lcsoundon"><![CDATA[Son: Activé]]></phrase>
+<phrase section="livechatclient" code="leaveamessage"><![CDATA[Laisser un message]]></phrase>
+<phrase section="livechatclient" code="leavemessageconfirmheader"><![CDATA[Merci de nous avoir contacté. Un de nos collaborateurs analysera votre demande et vous répondra sous peu.]]></phrase>
+<phrase section="livechatclient" code="leavemessageheader"><![CDATA[Pour nous aider à mieux vous servir, veuillez fournir quelques informations avant d'envoyer votre message.]]></phrase>
+<phrase section="default" code="linkback"><![CDATA[Help Desk Software]]></phrase>
+<phrase section="livechatclient" code="livechat"><![CDATA[Chat en direct]]></phrase>
+<phrase section="livechatclient" code="livechat_emailsubject"><![CDATA[%s - Chat en direct sur %s]]></phrase>
+<phrase section="livechatclient" code="livechatheader"><![CDATA[Pour nous aider à mieux vous servir, veuillez fournir quelques informations avant de commencer le Chat.]]></phrase>
+<phrase section="livechatclient" code="livechatheadercall"><![CDATA[Veuillez entre votre numéro de téléphone et les autres information requises ci-dessou pour commencer l'appel.]]></phrase>
+<phrase section="default" code="loggedinas"><![CDATA[Connecté:&nbsp;]]></phrase>
+<phrase section="default" code="loggedinfromstaff"><![CDATA[Logged in as: %s]]></phrase>
+<phrase section="default" code="loggingout"><![CDATA[Déconnexion...]]></phrase>
+<phrase section="default" code="login"><![CDATA[Connexion]]></phrase>
+<phrase section="default" code="loginemail"><![CDATA[E-mail:]]></phrase>
+<phrase section="default" code="loginenteremail"><![CDATA[Vode adresse e-mail]]></phrase>
+<phrase section="default" code="loginerror"><![CDATA[Pseudo ou mot de passe invalide]]></phrase>
+<phrase section="default" code="loginerrorinvalidmodule"><![CDATA[Connexion share module invalide]]></phrase>
+<phrase section="default" code="loginerrorinvalidsession"><![CDATA[Session ID invalide]]></phrase>
+<phrase section="default" code="loginpassword"><![CDATA[Mot de passe:]]></phrase>
+<phrase section="default" code="loginrememberme"><![CDATA[Sauvegarder:]]></phrase>
+<phrase section="default" code="loginsuccess"><![CDATA[Connecté avec succès]]></phrase>
+<phrase section="default" code="logintocontinue"><![CDATA[Veuillez vous connecter pour continuer]]></phrase>
+<phrase section="default" code="loginusername"><![CDATA[Pseudo:]]></phrase>
+<phrase section="default" code="logout"><![CDATA[[Déconnexion]]]></phrase>
+<phrase section="default" code="lostpassword"><![CDATA[[Mot de passe oublié]]]></phrase>
+<phrase section="users" code="lostpassworddesc"><![CDATA[Veuillez saisir votre e-mail enregistré ci-dessous et cliquer sur "Soumettre". Vous recevrez un e-mail sous peu avec un lien pour réinitialiser votre mot de passe..]]></phrase>
+<phrase section="users" code="lostpasswordemailsubject"><![CDATA[Demande de mot de passe perdu pour le centre de support %s]]></phrase>
+<phrase section="users" code="lostpasswordresetdesc"><![CDATA[Veuillez entrer votre nouveau mot de passe ci-dessous et cliquer sur "Soumettre" pour réinitialiser votre mot de passe.]]></phrase>
+<phrase section="users" code="lostpasswordtitle"><![CDATA[Mote de passe perdu]]></phrase>
+<phrase section="users" code="lpinvalidemail"><![CDATA[Impossible de trouver un compte avec l'adresse e-mail "%s"]]></phrase>
+<phrase section="users" code="lprequestsent"><![CDATA[Une demande de réinitialisation de mot de passe a été envoyée à "%s"]]></phrase>
+<phrase section="users" code="lpsuccess"><![CDATA[Mot de passe mis à jour avec succès; vous pouvez vous connecter avec votre nouveau mot de passe.]]></phrase>
+<phrase section="livechatclient" code="lsbacksoon"><![CDATA[Le Chat en direct sera bientôt de retour]]></phrase>
+<phrase section="livechatclient" code="lsisaway"><![CDATA[LE Chat live est absent]]></phrase>
+<phrase section="default" code="machangepassword"><![CDATA[Changer le mot de passe]]></phrase>
+<phrase section="default" code="malogout"><![CDATA[Déconnexion]]></phrase>
+<phrase section="default" code="maorganization"><![CDATA[Mon organisation]]></phrase>
+<phrase section="default" code="mapreferences"><![CDATA[Préférences]]></phrase>
+<phrase section="default" code="maprofile"><![CDATA[Mon profil]]></phrase>
+<phrase section="default" code="mb"><![CDATA[Mo]]></phrase>
+<phrase section="default" code="module_notreg"><![CDATA[le module %s n'est pas enregistré]]></phrase>
+<phrase section="knowledgebase" code="mostpopular"><![CDATA[Les plus populaires]]></phrase>
+<phrase section="mime" code="mov"><![CDATA[Vidéo Quicktime]]></phrase>
+<phrase section="mime" code="mp3"><![CDATA[Son MPEG]]></phrase>
+<phrase section="mime" code="mpeg"><![CDATA[Vidéo MPEG]]></phrase>
+<phrase section="mime" code="mpg"><![CDATA[Vidéo MPEG]]></phrase>
+<phrase section="default" code="myaccount"><![CDATA[Compte]]></phrase>
+<phrase section="users" code="myorganization"><![CDATA[Mon organisation]]></phrase>
+<phrase section="default" code="na"><![CDATA[- ND -]]></phrase>
+<phrase section="default" code="navhome"><![CDATA[Espace support]]></phrase>
+<phrase section="news" code="newerposts"><![CDATA[Posts plus récents &raquo;]]></phrase>
+<phrase section="users" code="newpassword"><![CDATA[Nouveau mot de passe:]]></phrase>
+<phrase section="users" code="newpasswordrepeat"><![CDATA[Nouveau mot de passe (répéter):]]></phrase>
+<phrase section="users" code="newpwdoesnotmatch"><![CDATA[LEs mots de passe spécifiés ne correspondent pas.]]></phrase>
+<phrase section="users" code="newpwupdated"><![CDATA[Mote de passe utilisateur mis à jour avec succès.]]></phrase>
+<phrase section="news" code="news"><![CDATA[Nouveautés]]></phrase>
+<phrase section="news" code="newsnotfound"><![CDATA[News item not found.]]></phrase>
+<phrase section="default" code="no"><![CDATA[Non]]></phrase>
+<phrase section="default" code="no_wait"><![CDATA[Cliquez ici si vous n'êtes pas automatiquement redirigé]]></phrase>
+<phrase section="default" code="noinfoinview"><![CDATA[Pas d'information disponible dans cette vue]]></phrase>
+<phrase section="default" code="nopermission"><![CDATA[Impossible de continuer. Vous n'avez pas les droits pour effectuer cette action.]]></phrase>
+<phrase section="default" code="nosearchresults"><![CDATA[Pas de résultat trouvé]]></phrase>
+<phrase section="news" code="nwsubconfirmsub"><![CDATA[Inscription News confirmée]]></phrase>
+<phrase section="news" code="nwsubconintro"><![CDATA[Votre inscription à notre flux des nouveautés a été confirmée. Vous serez averti par mail pour toute nouvelle annonce postée. Vous pouvez vous désinscrire à tout moment en cliquant sur l'URL ci-dessous.]]></phrase>
+<phrase section="news" code="nwsubfooter"><![CDATA[Pour toute autre question, n'hésitez pas à nous contacter]]></phrase>
+<phrase section="news" code="nwsubintro"><![CDATA[Merci de vous être inscrit à notre flux des nouveautés. Vous devrez valider votre compte afin de recevoir les prochaines news. Veuillez cliquer sur le lien ci-dessous pour activer votre compte.]]></phrase>
+<phrase section="news" code="nwvalidatesubscriptionsub"><![CDATA[Valider votre inscription]]></phrase>
+<phrase section="livechatclient" code="offline"><![CDATA[Hors-ligne]]></phrase>
+<phrase section="news" code="olderposts"><![CDATA[&laquo; Posts plus anciens]]></phrase>
+<phrase section="default" code="on"><![CDATA[activé]]></phrase>
+<phrase section="livechatclient" code="online"><![CDATA[En ligne]]></phrase>
+<phrase section="livechatclient" code="onsiterequest"><![CDATA[Veuillez cliquer sur le lien ci-dessous pour télécharger le programme. Une foir le programme téléchargé, cliquez sur l'icône pour démarrer une session OnSite. Une session OnSite permet à nos opérateurs de voir votre bureau et de vous guider pour trouver les solutions à vos problèmes.]]></phrase>
+<phrase section="livechatclient" code="onsiterequesttitle"><![CDATA[Notre opérateur demande une session OnSite.]]></phrase>
+<phrase section="livechatclient" code="onsitewindows"><![CDATA[Windows 7/Vista/XP/2000]]></phrase>
+<phrase section="default" code="options"><![CDATA[Options]]></phrase>
+<phrase section="users" code="orgaddress"><![CDATA[Adresse:]]></phrase>
+<phrase section="users" code="orgcity"><![CDATA[Ville:]]></phrase>
+<phrase section="users" code="orgcountry"><![CDATA[Pays:]]></phrase>
+<phrase section="users" code="orgfax"><![CDATA[Fax:]]></phrase>
+<phrase section="users" code="orgname"><![CDATA[Nom d'organisation:]]></phrase>
+<phrase section="users" code="orgphone"><![CDATA[Téléphone]]></phrase>
+<phrase section="users" code="orgprofile"><![CDATA[Profil d'organisation]]></phrase>
+<phrase section="users" code="orgstate"><![CDATA[Etat:]]></phrase>
+<phrase section="users" code="orgupdated"><![CDATA[Le profil de votre organisation a été mis à jour]]></phrase>
+<phrase section="users" code="orgwebsite"><![CDATA[Site Web:]]></phrase>
+<phrase section="users" code="orgzip"><![CDATA[Code postal:]]></phrase>
+<phrase section="users" code="passworddetails"><![CDATA[Détails du mot de passe]]></phrase>
+<phrase section="mime" code="pdf"><![CDATA[Document PDF]]></phrase>
+<phrase section="livechatclient" code="peopleaheadinqueue"><![CDATA[Il y a actuellement %s demandes de chat pour vous dans la file.]]></phrase>
+<phrase section="default" code="perminvalid"><![CDATA[ERREUR: Vous devez ouvrir une session avant que cette page soit ouverte. Ouvrez une session svp en utilisant votre adresse email et mot de passe.]]></phrase>
+<phrase section="mime" code="php"><![CDATA[Fichier script PHP]]></phrase>
+<phrase section="default" code="pleasetypeyourquery"><![CDATA[Veuillez taper votre recherche ici]]></phrase>
+<phrase section="default" code="pleasetypeyourquestion"><![CDATA[Veuillez taper votre question ici]]></phrase>
+<phrase section="livechatclient" code="pleasewaitoperator"><![CDATA[Veuillez patienter, Un assistant traitera votre question bientôt.]]></phrase>
+<phrase section="mime" code="png"><![CDATA[Image PNG]]></phrase>
+<phrase section="default" code="postedby"><![CDATA[Posté par]]></phrase>
+<phrase section="default" code="postedon"><![CDATA[Le: ]]></phrase>
+<phrase section="default" code="postnewcomment"><![CDATA[Poster un nouveau commentaire]]></phrase>
+<phrase section="default" code="poweredby"><![CDATA[Powered by Kayako %s Help Desk Software]]></phrase>
+<phrase section="default" code="poweredbytitle"><![CDATA[Kayako %s Help Desk Software]]></phrase>
+<phrase section="mime" code="ppt"><![CDATA[Docuemnt Powerpoint]]></phrase>
+<phrase section="mime" code="pptx"><![CDATA[Docuemnt Powerpoint]]></phrase>
+<phrase section="users" code="praddemail"><![CDATA[Ajouter e-mail]]></phrase>
+<phrase section="users" code="preferencestitle"><![CDATA[Préférences]]></phrase>
+<phrase section="users" code="prenabledst"><![CDATA[Activer l'heure d'été:]]></phrase>
+<phrase section="users" code="prfullname"><![CDATA[Nom complet:]]></phrase>
+<phrase section="default" code="private"><![CDATA[Privé]]></phrase>
+<phrase section="users" code="prlanguage"><![CDATA[Langue:]]></phrase>
+<phrase section="users" code="prnoemailprovided"><![CDATA[Vous devez spécifier au moins une adresse e-mail]]></phrase>
+<phrase section="livechatclient" code="proactivechatnow"><![CDATA[Discuter maintenant]]></phrase>
+<phrase section="livechatclient" code="proactivemsg"><![CDATA[Nos agents sont prêts à vous aider. Cliquez "Discuter maintenant" pour parler avec un opérateur instantanément.]]></phrase>
+<phrase section="livechatclient" code="proactivetitle"><![CDATA[Puis-je vous aider?]]></phrase>
+<phrase section="livechatclient" code="proactivevisitorname"><![CDATA[Visiteur]]></phrase>
+<phrase section="default" code="processinglogin"><![CDATA[Traitement de l'ouverture...]]></phrase>
+<phrase section="users" code="profiledetails"><![CDATA[Détails du profil]]></phrase>
+<phrase section="users" code="profiletitle"><![CDATA[Mon profil]]></phrase>
+<phrase section="users" code="prorganization"><![CDATA[Organisation:]]></phrase>
+<phrase section="users" code="prphone"><![CDATA[Téléphone]]></phrase>
+<phrase section="users" code="prphoneregistered"><![CDATA["%s" phone number is already registered.]]></phrase>
+<phrase section="users" code="prprofileimage"><![CDATA[Image de profil:]]></phrase>
+<phrase section="users" code="prprofileupdate"><![CDATA[Votre profil a été mis à jour avec succès]]></phrase>
+<phrase section="users" code="prtimezone"><![CDATA[Fuseau horaire]]></phrase>
+<phrase section="users" code="prtitleposition"><![CDATA[Titre/Poste]]></phrase>
+<phrase section="users" code="prupdated"><![CDATA[Vos préférences ont été mises à jour avec succès]]></phrase>
+<phrase section="users" code="pwhidden"><![CDATA[[ Caché ]]]></phrase>
+<phrase section="mime" code="ram"><![CDATA[Fichier son Real]]></phrase>
+<phrase section="mime" code="rar"><![CDATA[Fichier RAR]]></phrase>
+<phrase section="default" code="readmore"><![CDATA[Lire plus &raquo;]]></phrase>
+<phrase section="knowledgebase" code="recentarticles"><![CDATA[Articles récents]]></phrase>
+<phrase section="users" code="regemail"><![CDATA[E-mail:]]></phrase>
+<phrase section="users" code="regemailregistered"><![CDATA[Cet e-mail est déjà enregistré. Utilisez l'option "Mote de passe perdu" pour retrouver votre mot de passe, ou spécifiez une autre adresse e-mail.]]></phrase>
+<phrase section="users" code="regemailregisteredsmall"><![CDATA[L'adresse e-mail %s est déjà enregstrée.]]></phrase>
+<phrase section="ticketemails" code="regemailrejectfooter"><![CDATA[Une fois inscrit, vous serez en mesure de soumettre toutes les questions directement en nous envoyant un e-mail. Veuillez accepter nos sincères excuses pour le dérangement occasionné.]]></phrase>
+<phrase section="ticketemails" code="regemailrejectintro"><![CDATA[Votre requête n'a pas été accepté par le système. Afin de pouvoir nous contacter, vous êtes tenus de vous inscrire à l'URL suivante:]]></phrase>
+<phrase section="ticketemails" code="regemailrejectsub"><![CDATA[Inscription requise: la requête n?a pu pas être créé]]></phrase>
+<phrase section="users" code="regfullname"><![CDATA[Nom complet:]]></phrase>
+<phrase section="users" code="reginvalidemail"><![CDATA[Adresse e-mail spécifiée invalide]]></phrase>
+<phrase section="users" code="registerdesc"><![CDATA[Veuillez SVP remplir les champs ci-dessous pour enregistrer un nouveau compte. Une fois enregistré, vous devrez valider votre adresse e-mail pour activer votre compte.]]></phrase>
+<phrase section="users" code="registeremailsubject"><![CDATA[Bienvenue au centre de Support %s]]></phrase>
+<phrase section="users" code="registeremailvalidationsubject"><![CDATA[Enregistrement au centre de support %s]]></phrase>
+<phrase section="default" code="registerlogin"><![CDATA[Créer un compte]]></phrase>
+<phrase section="users" code="registersuccessemail"><![CDATA[Ce message confirme que vous vous êtes enregistrés sur notre centre de support avec succès.
+
+E-mail enregistré: %3$s
+Mot de passe: [CACHE]
+
+Vous pouvez visiter le centre de support à tout moment en allant sur %2$s
+
+N'hésitez pas à nous contacter si vous avez des questions.
+
+Meilleures salutations,
+
+
+%1$s]]></phrase>
+<phrase section="users" code="registersuccesstitle"><![CDATA[Enregistrement réussi]]></phrase>
+<phrase section="users" code="registertitle"><![CDATA[Créer un nouveau compte]]></phrase>
+<phrase section="users" code="registervalidateemail"><![CDATA[Nous avons reçu votre demande d'enregistrement au centre de support %1$s (%2$s).
+
+Avant de pouvoir utiliser votre nouveau compte, vous devez l'activer - ceci étant pour s'assurer que l'adresse e-mail que vous avez utilisé vous appartient.
+Pour activer votre compte, veuillez cliquer sur le lien ci-dessous ou cipiez et collez le lien ci-dessous dans la barre d'adresse de votre navigateur:
+
+%3$s
+
+Si vous pensez avoir reçu ce message par erreur, aucune action de votre part n'est nécessaire pour annuler votre compte. Le compte ne sera pas activé, et vous ne recevrez plus aucun message de notre part.
+
+Meilleures salutations,
+
+
+%1$s]]></phrase>
+<phrase section="users" code="registerwelcomeemail"><![CDATA[Ce message est une confirmation que vous être enregistrés avec succès dans notre centre de support.
+
+E-mail enregistré: %3$s
+Mot de passe: %4$s
+
+Vous pouvez visiter le centre de support a tout moment en allant sur %2$s
+
+N'hésitez pas à nous contacter si vous avez des questions.
+
+Meilleures salutations,
+
+
+%1$s]]></phrase>
+<phrase section="users" code="registrationdetails"><![CDATA[Détails d'enregistrement]]></phrase>
+<phrase section="users" code="regpassword"><![CDATA[Mot de passe:]]></phrase>
+<phrase section="users" code="regpasswordrepeat"><![CDATA[Mot de passe (répéter):]]></phrase>
+<phrase section="users" code="regpwnomatch"><![CDATA[Les mots de passe ne correspondent pas]]></phrase>
+<phrase section="users" code="regsignup"><![CDATA[Inscription]]></phrase>
+<phrase section="users" code="regsuccessdesc"><![CDATA[Merci de votre enregistrement! Une copie de vos détails d'inscription ont été envoyé à votre adresse e-mail. Veuillez utiliser le formulaire ci-contre pour vous connecter.]]></phrase>
+<phrase section="default" code="rememberme"><![CDATA[Se souvenir]]></phrase>
+<phrase section="default" code="reply"><![CDATA[Répondre]]></phrase>
+<phrase section="default" code="replytocomment"><![CDATA[Reply to comment]]></phrase>
+<phrase section="default" code="requiredfieldempty"><![CDATA[Un des champs requis est vide]]></phrase>
+<phrase section="default" code="reset"><![CDATA[Réinitialiser]]></phrase>
+<phrase section="default" code="rssfeed"><![CDATA[Flux RSS]]></phrase>
+<phrase section="mime" code="rtf"><![CDATA[Fichier RTF]]></phrase>
+<phrase section="default" code="salutationdr"><![CDATA[Dr.]]></phrase>
+<phrase section="default" code="salutationmiss"><![CDATA[Mlle]]></phrase>
+<phrase section="default" code="salutationmr"><![CDATA[M.]]></phrase>
+<phrase section="default" code="salutationmrs"><![CDATA[Mme]]></phrase>
+<phrase section="default" code="search"><![CDATA[Recherche]]></phrase>
+<phrase section="default" code="searchbutton"><![CDATA[RECHERCHE]]></phrase>
+<phrase section="default" code="searchresults"><![CDATA[Résultats de la recherche]]></phrase>
+<phrase section="tickets" code="selectdepartmentdesc"><![CDATA[Si vous ne trouvez pas de solution à votre problème dans la base de connaissance, vous pouvez soumettre un ticket en sélectionnant le département approprié ci-dessous.]]></phrase>
+<phrase section="tickets" code="selectdepartmenttitle"><![CDATA[Séletionner un département]]></phrase>
+<phrase section="livechatclient" code="send"><![CDATA[Envoyer]]></phrase>
+<phrase section="default" code="snoresults"><![CDATA[Aucun résultat trouvé.]]></phrase>
+<phrase section="default" code="squerypr"><![CDATA[Recherche: ]]></phrase>
+<phrase section="tickets" code="st_department"><![CDATA[Département]]></phrase>
+<phrase section="tickets" code="st_email"><![CDATA[E-mail]]></phrase>
+<phrase section="tickets" code="st_fullname"><![CDATA[Nom complet]]></phrase>
+<phrase section="tickets" code="st_messagedetails"><![CDATA[Message]]></phrase>
+<phrase section="tickets" code="st_priority"><![CDATA[Priorité]]></phrase>
+<phrase section="tickets" code="st_subject"><![CDATA[Sujet]]></phrase>
+<phrase section="tickets" code="st_subjectconfirm"><![CDATA[Sujet: ]]></phrase>
+<phrase section="tickets" code="st_ticketid"><![CDATA[ID Ticket]]></phrase>
+<phrase section="tickets" code="st_type"><![CDATA[Type]]></phrase>
+<phrase section="tickets" code="st_yourcomments"><![CDATA[Commentaires]]></phrase>
+<phrase section="tickets" code="st_yourfeedback"><![CDATA[Votre avis]]></phrase>
+<phrase section="livechatclient" code="staffnotacceptedchat"><![CDATA[Votre message n'a pas pu être envoyé. Veuillez patienter jusqu?à ce qu'un opérateur accepte votre requête.]]></phrase>
+<phrase section="tickets" code="sterr_invaliddepartment"><![CDATA[Département spécifié invalide; veuillez recommencer]]></phrase>
+<phrase section="tickets" code="sterr_invalidpriority"><![CDATA[Priorité de ticket spécifiée invalide; veuillez recommencer]]></phrase>
+<phrase section="tickets" code="sterr_invalidtype"><![CDATA[Type de ticket spécifié invalide; veuillez recommencer]]></phrase>
+<phrase section="default" code="stimetakenpr"><![CDATA[Temps pris: %s secondes]]></phrase>
+<phrase section="default" code="submit"><![CDATA[Soumettre]]></phrase>
+<phrase section="default" code="submitticket"><![CDATA[Envoyer un ticket]]></phrase>
+<phrase section="tickets" code="submitticketdepartments"><![CDATA[Départements]]></phrase>
+<phrase section="default" code="subscribe"><![CDATA[S'inscrire]]></phrase>
+<phrase section="news" code="subscriberregistered"><![CDATA[%s est déja inscrit à ce flux de nouveautés]]></phrase>
+<phrase section="default" code="supportcenterfield"><![CDATA[Centre de support]]></phrase>
+<phrase section="livechatclient" code="surveyconfirmheader"><![CDATA[Merci d'avoir répondu au sondage. Vous pouvez maintenant fermer cette fenêtre.]]></phrase>
+<phrase section="ticketemails" code="surveycta"><![CDATA[Pour répondre au sondage, veuillez cliquer sur le lien suivant: ]]></phrase>
+<phrase section="tickets" code="surveydesc"><![CDATA[MErci de participer au court sondage. Votre avis est très important et nous aidera à améliorer notre service à la clientèle!]]></phrase>
+<phrase section="ticketemails" code="surveydescription1"><![CDATA[Dans le cadre de notre engagement à améliorer continuellement notre service à la clientèle, nous aimerions connaître votre avis.]]></phrase>
+<phrase section="ticketemails" code="surveydescription2"><![CDATA[Nous vous invitons à participer à une courte enquête de satisfaction qui consiste uniquement à répondre à quelques questions à choix multiples.]]></phrase>
+<phrase section="ticketemails" code="surveydescription3"><![CDATA[Cela ne devrait pas vous prendre plus d'une minute (promis !).]]></phrase>
+<phrase section="ticketemails" code="surveyfooter"><![CDATA[Merci d'avance,]]></phrase>
+<phrase section="livechatclient" code="surveyheader"><![CDATA[Votre avis est important pour nous et nous voudrion connaître vos impression. Veuillez remplir le court sondage ci-dessous pour évaluer votre expérience.]]></phrase>
+<phrase section="ticketemails" code="surveyintro"><![CDATA[Cet e-mail concerne le ticket que vous avez récemment soumis]]></phrase>
+<phrase section="ticketemails" code="surveysubfooter"><![CDATA[Votre avis est important et nous vous remercion pour le temps que vous nous avez accordé.]]></phrase>
+<phrase section="mime" code="swf"><![CDATA[Fichier Macromedia Flash]]></phrase>
+<phrase section="tickets" code="taddfile"><![CDATA[Ajouter Fichier]]></phrase>
+<phrase section="mime" code="tar"><![CDATA[Fichier TAR]]></phrase>
+<phrase section="default" code="text_charset"><![CDATA[UTF-8]]></phrase>
+<phrase section="default" code="text_encoding"><![CDATA[8bit]]></phrase>
+<phrase section="news" code="thankyousubscriber"><![CDATA[Merci de votre inscription à notre flux de nouveautés]]></phrase>
+<phrase section="news" code="thankyousubscribervalidate"><![CDATA[Merci. Veuillez vérifier votre e-mail pour confirmer votre inscription]]></phrase>
+<phrase section="tickets" code="thankyousurvey"><![CDATA[Merci pour votre avis!]]></phrase>
+<phrase section="news" code="thankyouunsubscriber"><![CDATA[You have successfully unsubscribed from our news feed.]]></phrase>
+<phrase section="ticketemails" code="thattachments"><![CDATA[Pièces jointes]]></phrase>
+<phrase section="ticketemails" code="thbcc"><![CDATA[Destinataire (CCC)]]></phrase>
+<phrase section="ticketemails" code="thcc"><![CDATA[Destinataire (CC)]]></phrase>
+<phrase section="ticketemails" code="thclient"><![CDATA[Client]]></phrase>
+<phrase section="ticketemails" code="thpostedon"><![CDATA[Posté le:]]></phrase>
+<phrase section="ticketemails" code="threcipient"><![CDATA[Destinataire]]></phrase>
+<phrase section="ticketemails" code="thstaff"><![CDATA[Agent]]></phrase>
+<phrase section="ticketemails" code="ththirdparty"><![CDATA[Partie tierce]]></phrase>
+<phrase section="ticketemails" code="ticketdetails"><![CDATA[Détails de ticket]]></phrase>
+<phrase section="ticketemails" code="tickethistory"><![CDATA[Historique de ticket]]></phrase>
+<phrase section="tickets" code="ticketpermdenied"><![CDATA[ID Ticket invalide ou vous n'avez pas les droits pour accéder à ce ticket]]></phrase>
+<phrase section="default" code="ticketsubjectformat"><![CDATA[[%s#%s]: %s]]></phrase>
+<phrase section="tickets" code="ticketsubmitteddesc"><![CDATA[Nous avons bien reçu votre demande et nous prendrons contact rapidement avec vous avec plus de détails. Vous pouvez vous connecter au centre de support ou vérifier votre boît aux lettres pour plus de nouvelles.]]></phrase>
+<phrase section="tickets" code="ticketsubmittedtitle"><![CDATA[Votre demande a été recue]]></phrase>
+<phrase section="tickets" code="ticketsurveytickettitle"><![CDATA[Sondage: #]]></phrase>
+<phrase section="tickets" code="ticketviewticketidtitle"><![CDATA[Voir ticket: #]]></phrase>
+<phrase section="tickets" code="ticketviewtickettitle"><![CDATA[Voir ticket]]></phrase>
+<phrase section="tickets" code="tldepartment"><![CDATA[Département]]></phrase>
+<phrase section="tickets" code="tllastreplier"><![CDATA[Dernier intervenant]]></phrase>
+<phrase section="tickets" code="tllastupdate"><![CDATA[Dernière mise à jour]]></phrase>
+<phrase section="tickets" code="tlpriority"><![CDATA[Priorité]]></phrase>
+<phrase section="tickets" code="tlstatus"><![CDATA[Statut]]></phrase>
+<phrase section="tickets" code="tlticketid"><![CDATA[Ticket ID]]></phrase>
+<phrase section="tickets" code="tltype"><![CDATA[Type]]></phrase>
+<phrase section="tickets" code="tpemailforwardedto"><![CDATA[Transféré à: %s]]></phrase>
+<phrase section="tickets" code="tpemailto"><![CDATA[E-mail à: %s]]></phrase>
+<phrase section="tickets" code="tppostedon"><![CDATA[Posté le: %s]]></phrase>
+<phrase section="tickets" code="trash"><![CDATA[Poubelle]]></phrase>
+<phrase section="troubleshooter" code="trattachments"><![CDATA[Pièces jointes]]></phrase>
+<phrase section="troubleshooter" code="trback"><![CDATA[&laquo; Retour]]></phrase>
+<phrase section="troubleshooter" code="trcategoryviews"><![CDATA[ (%d vues)]]></phrase>
+<phrase section="troubleshooter" code="trnext"><![CDATA[Suivant &raquo;]]></phrase>
+<phrase section="troubleshooter" code="trnextsteps"><![CDATA[Etapes suivantes]]></phrase>
+<phrase section="troubleshooter" code="troubleshooter"><![CDATA[Dépanneur]]></phrase>
+<phrase section="troubleshooter" code="troubleshooterdesc"><![CDATA[Le dépanneur vous guide par une série d'étapes afin de diagnostiquer et résoudre des problèmes communs. Commencez en choisissant une catégorie de dépanneur.]]></phrase>
+<phrase section="tickets" code="tsupdate"><![CDATA[Updated On: %s]]></phrase>
+<phrase section="mime" code="txt"><![CDATA[Fichier Texte]]></phrase>
+<phrase section="default" code="unable_to_execute"><![CDATA[Impossible d'exécuter %s]]></phrase>
+<phrase section="tickets" code="unassigned"><![CDATA[Non-assigné]]></phrase>
+<phrase section="default" code="unsubscribe"><![CDATA[Unsubscribe]]></phrase>
+<phrase section="tickets" code="updatedticketproperties"><![CDATA[Propriétés du ticket mises à jour avec succès]]></phrase>
+<phrase section="tickets" code="uploadfiles"><![CDATA[Charger Fichier(s)]]></phrase>
+<phrase section="default" code="usercomments"><![CDATA[Commentaires d'utilisateur]]></phrase>
+<phrase section="users" code="userfirstprompt"><![CDATA[Connexion réussie. Veuillez entrer vos informations de profil ci-dessous.]]></phrase>
+<phrase section="ticketemails" code="validationemailrejectfooter"><![CDATA[Une fois que votre compte a été validé, vous pourrez soumettre des tickets directement via votre un email. Veuillez accepter nos sincères excuses pour le dérangement occasionné.]]></phrase>
+<phrase section="ticketemails" code="validationemailrejectsub"><![CDATA[Le compte n'est pas valide: la requête n?a pu pas être créé]]></phrase>
+<phrase section="ticketemails" code="validationmailrejectintro_generic"><![CDATA[Votre ticket n'a pas été accepté dans le système. Bien qu'un compte existe dèjà pour votre email address, tous les comptes doivent être manuellement approuvés par un agent de notre équipe, et votre compte n'est pas encors validé, merci de patienter.]]></phrase>
+<phrase section="ticketemails" code="validationmailrejectintro_staff"><![CDATA[Votre ticket n'a pas été accepté dans le système. Bien qu'un compte existe dèjà pour votre email address, tous les comptes doivent être manuellement approuvés par un agent de notre équipe. Jusqu'à là, vous ne pourrez pas soumettre des tickets.]]></phrase>
+<phrase section="users" code="validationpendingesc"><![CDATA[Merci de vous être enregistré. Nous vous avons envoyé un message e-mail avec un lien d'activation. Veuillez suivre le lien pour vérifier votre adresse e-mail. Vous devez efefctuer cette opération avant de pouvoir vous connecter.]]></phrase>
+<phrase section="users" code="validationpendingtitle"><![CDATA[La validation d'e-mail est requise]]></phrase>
+<phrase section="default" code="vardate1"><![CDATA[%dd %dh %dm]]></phrase>
+<phrase section="default" code="vardate2"><![CDATA[%dh %dm %ds]]></phrase>
+<phrase section="default" code="vardate3"><![CDATA[%dm %ds]]></phrase>
+<phrase section="default" code="vardate4"><![CDATA[%ds]]></phrase>
+<phrase section="users" code="verifyregistration"><![CDATA[Vérifier l'enregistrement]]></phrase>
+<phrase section="tickets" code="verifyticketsubmission"><![CDATA[Vérifier la soumission du ticket]]></phrase>
+<phrase section="default" code="viewallnews"><![CDATA[Voir toutes les nouveautés]]></phrase>
+<phrase section="tickets" code="viewresolvedt"><![CDATA[Voir les tickets résolus]]></phrase>
+<phrase section="default" code="viewtickets"><![CDATA[Voir vos tickets]]></phrase>
+<phrase section="tickets" code="vtcreated"><![CDATA[Créé:]]></phrase>
+<phrase section="tickets" code="vtdepartment"><![CDATA[DEPARTEMENT]]></phrase>
+<phrase section="tickets" code="vtowner"><![CDATA[PROPRIETAIRE]]></phrase>
+<phrase section="tickets" code="vtpostreply"><![CDATA[Envoyer Réponse]]></phrase>
+<phrase section="tickets" code="vtpriority"><![CDATA[PRIORITE]]></phrase>
+<phrase section="tickets" code="vtstatus"><![CDATA[STATUT]]></phrase>
+<phrase section="tickets" code="vttype"><![CDATA[TYPE]]></phrase>
+<phrase section="tickets" code="vtupdated"><![CDATA[Mis à jour:]]></phrase>
+<phrase section="ticketemails" code="watcherprefix"><![CDATA[%s (%s) a répondu:]]></phrase>
+<phrase section="mime" code="wav"><![CDATA[Fichier WAV]]></phrase>
+<phrase section="default" code="whmcsclientarea"><![CDATA[Espace client]]></phrase>
+<phrase section="default" code="whmcssupport"><![CDATA[Support]]></phrase>
+<phrase section="default" code="whmcssupporttickets"><![CDATA[Support technique]]></phrase>
+<phrase section="default" code="widgetdownloads"><![CDATA[Téléchargements]]></phrase>
+<phrase section="default" code="widgethome"><![CDATA[Accueil]]></phrase>
+<phrase section="default" code="widgetknowledgebase"><![CDATA[Base de connaissance]]></phrase>
+<phrase section="default" code="widgetnews"><![CDATA[Nouveautés]]></phrase>
+<phrase section="default" code="widgetregister"><![CDATA[S'enregistrer]]></phrase>
+<phrase section="default" code="widgetsubmitticket"><![CDATA[Soumettre un ticket]]></phrase>
+<phrase section="default" code="widgettroubleshooter"><![CDATA[Dépanneur]]></phrase>
+<phrase section="default" code="widgetviewtickets"><![CDATA[Voir les tickets]]></phrase>
+<phrase section="mime" code="xls"><![CDATA[Fichier Excel]]></phrase>
+<phrase section="mime" code="xlsx"><![CDATA[Fichier Excel]]></phrase>
+<phrase section="default" code="yes"><![CDATA[Oui]]></phrase>
+<phrase section="tickets" code="yourticketdetailsdesc"><![CDATA[Entrez les détails du ticket ci-dessous. Si vous rencontrez un problème, veuillez fournir un maximum d'information le concernant.]]></phrase>
+<phrase section="tickets" code="yourticketdetailstitle"><![CDATA[Vos détails du ticket]]></phrase>
+<phrase section="mime" code="zip"><![CDATA[Fichier ZIP]]></phrase>
+</swiftlanguage>
